@@ -42,7 +42,7 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-<!-- YOUTUBES:END -->
+<!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
 
