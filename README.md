@@ -1,4 +1,4 @@
-<img src="https://giphy.com/embed/OoqHNJRGqQKQM" width="400" height="250" align="right" />
+<img src="https://media.giphy.com/media/3oz8xSFr4Uw7d3K0JW/source.gif" align="right" width="400" height="250">
 
 ### Hey there, I'm Gülsen. :blush:
 
