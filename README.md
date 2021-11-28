@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/F3LJZ4I0JxoZi" align="right" width="480" height="319" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/and-followand-wifflegif-F3LJZ4I0JxoZi">via GIPHY</a></p>
+<img src="https://giphy.com/embed/F3LJZ4I0JxoZi" align="right" width="4800" height="250" >
 
 ### Hey there, I'm Gülsen. :blush:
 
