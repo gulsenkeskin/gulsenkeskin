@@ -52,11 +52,17 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="25" height="25"/>
 
 <br/>
+# Latest Youtube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBES:END -->
 
 # Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<br/>
 
 <details>
 <summary> :bulb: Github Stats </summary>
