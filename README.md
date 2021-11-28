@@ -6,7 +6,7 @@
 
 <font color="pink"> “It is our choices, that show what we truly are, far more than our abilities.”
 </br>
-– Albus Dumbledore :crystal_ball:  </font>
+– Albus Dumbledore  :crystal_ball:  </font>
 </br>
 
 #
