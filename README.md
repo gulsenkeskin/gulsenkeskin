@@ -5,6 +5,7 @@
 ## Software Developer | Youtube Content Creator
 
 <font color="pink"> “It is our choices, that show what we truly are, far more than our abilities.”
+</br>
 – Albus Dumbledore </font>
 
 ### Reach out to me
