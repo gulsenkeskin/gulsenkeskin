@@ -2,7 +2,7 @@
 
 ### Hey there, I'm Gülsen. :dizzy: :milky_way: :sparkles:
 
-## Software Developer | Youtube Content Creator
+### Software Developer | Youtube Content Creator
 
 <font color="pink"> “It is our choices, that show what we truly are, far more than our abilities.”
 </br>
@@ -14,6 +14,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/gulsenkeskin?style=social)](https://github.com/gulsenkeskin?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/gulsenkeskin?style=social)
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fgulsenkeskin.gulsenkeskin%2Freadme)
+:octocat:
 
 ### Reach out to me
 
