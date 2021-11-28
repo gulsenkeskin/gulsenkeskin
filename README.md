@@ -11,7 +11,7 @@
 
 #
 
-[![GitHub followers](https://img.shields.io/github/followers/zafercaliskan?style=social)](https://github.com/gulsenkeskin?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/gulsenkeskin?style=social)](https://github.com/gulsenkeskin?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/gulsenkeskin?style=social)
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fgulsenkeskin.gulsenkeskin%2Freadme)
 
