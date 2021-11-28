@@ -10,14 +10,9 @@
 
 ### Reach out to me
 
-[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/youtube.svg" align="left" />
-][youtube]
-
-[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left" />
-][linkedin]
-
-[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/stackoverflow.svg" align="left" />
-][stackoverflow]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" align="left" />][youtube]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/stackoverflow.svg" align="left" />][stackoverflow]
 
 <br/>
 <br/>
