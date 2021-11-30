@@ -11,7 +11,7 @@
 
 ### Spotify Playing 
 
-[![Spotify](https://now-playing-gulsenkeskin.vercel.app/api/spotify-playing)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)
+[![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)
 
 #
 
