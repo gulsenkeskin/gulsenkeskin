@@ -8,11 +8,6 @@
 </br>
 – Albus Dumbledore :crystal_ball: </font>
 </br>
-
-### Spotify Playing :violin: :notes:
-
-[![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)
-
 #
 
 [![GitHub followers](https://img.shields.io/github/followers/gulsenkeskin?style=social)](https://github.com/gulsenkeskin?tab=followers)
@@ -51,6 +46,10 @@
 <br/>
 <br/>
 <br/>
+<br/>
+
+### Spotify Playing :violin: :notes:
+[![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)
 <br/>
 
 ## Latest Youtube Videos
