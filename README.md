@@ -6,10 +6,10 @@
 
 <font color="pink"> “It is our choices, that show what we truly are, far more than our abilities.”
 </br>
-– Albus Dumbledore  :crystal_ball:  </font>
+– Albus Dumbledore :crystal_ball: </font>
 </br>
 
-### Spotify Playing :)
+### Spotify Playing :violin: :notes:
 
 [![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)
 
@@ -19,8 +19,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/gulsenkeskin?style=social)
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fgulsenkeskin.gulsenkeskin%2Freadme)
 
-
-### Reach out to me  :octocat:
+### Reach out to me :octocat:
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" align="left" />][youtube]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
@@ -28,8 +27,6 @@
 
 <br/>
 <br/>
-
-
 
 ### Tech I Use
 
@@ -59,6 +56,7 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Bir CSS Dosyasına Farklı CSS Dosyalarını Dahil Edebilme](https://www.youtube.com/watch?v=Q_XeNXWfdOc)
 - [MOORA YÖNTEMİ MASAÜSTÜ UYGULAMASI](https://www.youtube.com/watch?v=EDIuAQYkE1c)
 - [TODIM &lpar;Tomada de Decisao Interativa Multicriterio&rpar; method desktop application](https://www.youtube.com/watch?v=bHQoHSQNxPs)
