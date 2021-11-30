@@ -10,8 +10,8 @@
 </br>
 
 ### Spotify Playing 
-[<img src="https://now-playing-gulsenkeskin.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />]
-(https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)
+
+[![Spotify](https://now-playing-gulsenkeskin.vercel.app/api/spotify-playing)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)
 
 #
 
