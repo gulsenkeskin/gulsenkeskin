@@ -9,7 +9,7 @@
 – Albus Dumbledore  :crystal_ball:  </font>
 </br>
 
-### Spotify Playing 
+### Spotify Playing :)
 
 [![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)
 
