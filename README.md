@@ -52,7 +52,7 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Github&#39;a spotfy box ekleme](https://www.youtube.com/watch?v=SlxUSGS2A8Q)
+- [Github&#39;a spotify box ekleme](https://www.youtube.com/watch?v=SlxUSGS2A8Q)
 - [Bir CSS Dosyasına Farklı CSS Dosyalarını Dahil Edebilme](https://www.youtube.com/watch?v=Q_XeNXWfdOc)
 - [MOORA YÖNTEMİ MASAÜSTÜ UYGULAMASI](https://www.youtube.com/watch?v=EDIuAQYkE1c)
 - [TODIM &lpar;Tomada de Decisao Interativa Multicriterio&rpar; method desktop application](https://www.youtube.com/watch?v=bHQoHSQNxPs)
