@@ -20,6 +20,7 @@
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/stackoverflow.svg" align="left" />][stackoverflow]
 [<img  width="22" src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" align="left" />][dev]
+[<img  width="22" src="https://miro.medium.com/fit/c/56/56/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" align="left" />][medium]
 
 
 <br/>
@@ -91,3 +92,5 @@
 [linkedin]: https://www.linkedin.com/in/g%C3%BClsen-keskin-8a5695123/
 [stackoverflow]: https://stackoverflow.com/users/14745090/g%c3%bclsen-keskin
 [dev]: https://dev.to/gulsenkeskin
+[medium]: https://medium.com/@gulsenkeskin2
+
