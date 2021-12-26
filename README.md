@@ -74,6 +74,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apache Kafka ☼](https://dev.to/gulsenkeskin/apache-kafka-4i7f)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
