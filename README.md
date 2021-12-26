@@ -74,6 +74,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [.NET Core ve Apache Kafka Kullanarak Mail Göndermek](https://dev.to/gulsenkeskin/net-core-ve-apache-kafka-kullanarak-mail-gondermek-468g)
 - [Apache Kafka ☼](https://dev.to/gulsenkeskin/apache-kafka-4i7f)
 <!-- BLOG-POST-LIST:END -->
 
