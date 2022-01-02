@@ -4,8 +4,7 @@
 
 ### Software Developer | Youtube Content Creator
 
-em { font-style: normal; font-weight: bold; color:purple } //italic emphasis
-<font color="pink">It' not a bug <em> it’s an undocumented </em> `<feature>` :crystal_ball: </font>
+<font color="pink">It' not a bug <em color:purple> it’s an undocumented </em> `<feature>` :crystal_ball: </font>
 
 #
 
