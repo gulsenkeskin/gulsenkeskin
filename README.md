@@ -86,8 +86,8 @@
 </details>
 
 <details>
-<summary> :bulb: Most Use Languages </summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenkeskin"></img>
+<summary>:bulb: Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenkeskin&layout=compact" >
 </details>
 
 [youtube]: https://www.youtube.com/channel/UCPyso_RkkrkDjWAXx51smkg
