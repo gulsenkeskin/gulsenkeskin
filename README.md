@@ -2,7 +2,7 @@
 
 ### Hey there, I'm Gülsen. :dizzy: :milky_way: :sparkles:
 
-### Software Developer | Youtube Content Creator
+### Software Developer | Youtube Content Creator :octocat:
 
 <font color="pink">It' not a bug <em> it’s an undocumented </em> `<feature>` :crystal_ball: </font>
 
