@@ -4,8 +4,11 @@
 
 ### Software Developer | Youtube Content Creator
 
-<font color="pink"> “'It’s not a bug — it’s an undocumented feature.'.”
+<font color="pink">IT'S NOT A BUG
 </br>
+it’s an undocumented
+</br>
+<feature> 
 :crystal_ball: </font>
 </br>
 #
