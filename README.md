@@ -4,7 +4,7 @@
 
 ### Software Developer | Youtube Content Creator
 
-<font color="pink">It' not a bug <em> it’s an undocumented </em> `<feature>` :crystal_ball: </font>
+<font color="pink">It' not a bug <span style="color:purple"><em> it’s an undocumented </em></span> `<feature>` :crystal_ball: </font>
 
 #
 
