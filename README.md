@@ -4,9 +4,9 @@
 
 ### Software Developer | Youtube Content Creator
 
-<font color="pink"> “It is our choices, that show what we truly are, far more than our abilities.”
+<font color="pink"> “'It’s not a bug — it’s an undocumented feature.'.”
 </br>
-– Albus Dumbledore :crystal_ball: </font>
+:crystal_ball: </font>
 </br>
 #
 
