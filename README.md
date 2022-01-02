@@ -4,13 +4,8 @@
 
 ### Software Developer | Youtube Content Creator
 
-<font color="pink">IT'S NOT A BUG
-</br>
-it’s an undocumented
-</br>
-<feature> 
-:crystal_ball: </font>
-</br>
+<font color="pink">IT'S NOT A BUG  it’s an undocumented `< feature />` </br> :crystal_ball: </font>
+
 #
 
 [![GitHub followers](https://img.shields.io/github/followers/gulsenkeskin?style=social)](https://github.com/gulsenkeskin?tab=followers)
