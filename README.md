@@ -69,11 +69,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kafka da Neden Partition Oluştururuz? 💫 🌌 ✨](https://dev.to/gulsenkeskin/kafka-da-neden-partition-olustururuz-4fog)
 - [Kafkadan veriler nasıl okunur? 💫 🌌 ✨](https://dev.to/gulsenkeskin/kafkadan-veriler-nasil-okunur-29ja)
 - [Selenium WebDriver Giriş 💫 🌌 ✨](https://dev.to/gulsenkeskin/selenium-webdriver-giris-40ja)
 - [Dart/Flutter da Json Ayrıştırma 💫 🌌 ✨](https://dev.to/gulsenkeskin/dartflutter-da-json-ayristirma-104b)
 - [Provider ile State Yönetimi 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-state-yonetimi-219l)
-- [.NET Core ve Apache Kafka Kullanarak Mail Göndermek 💫 🌌 ✨](https://dev.to/gulsenkeskin/net-core-ve-apache-kafka-kullanarak-mail-gondermek-468g)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
