@@ -69,7 +69,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Uygulama Mimarisi: Repository Pattern](https://dev.to/gulsenkeskin/flutter-uygulama-mimarisi-repository-pattern-576j)
+- [Flutter Uygulama Mimarisi: Repository Pattern 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-uygulama-mimarisi-repository-pattern-576j)
 - [Freezed Kullanarak Flutter&#39;da JSON Nasıl Ayrıştırılır?  💫 🌌 ✨](https://dev.to/gulsenkeskin/freezed-kullanarak-flutterda-json-nasil-ayristirilir-10m6)
 - [Kafka da Neden Partition Oluştururuz? 💫 🌌 ✨](https://dev.to/gulsenkeskin/kafka-da-neden-partition-olustururuz-4fog)
 - [Kafkadan veriler nasıl okunur? 💫 🌌 ✨](https://dev.to/gulsenkeskin/kafkadan-veriler-nasil-okunur-29ja)
