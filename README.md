@@ -16,7 +16,7 @@
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" align="left" />][youtube]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
-[<img  width="22" src="unpkg.com/simple-icons@v4/icons/stackoverflow.svg" align="left" />][stackoverflow]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/stackoverflow.svg" align="left" />][stackoverflow]
 [<img  width="22" src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" align="left" />][dev]
 [<img  width="22" src="https://miro.medium.com/fit/c/56/56/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" align="left" />][medium]
 [<img  width="22" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" align="left" />][twitter]
