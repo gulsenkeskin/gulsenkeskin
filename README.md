@@ -69,11 +69,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Provider ile Çalışmak 💫 🌌 ✨](https://dev.to/gulsenkeskin/provider-ile-calismak-l4l)
 - [FutureBuilder 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutterda-futurebuilderi-anlamak-1agh)
 - [Flutter Architecture 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-architecture-3lcc)
 - [Flutter Uygulama Mimarisi: Repository Pattern 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-uygulama-mimarisi-repository-pattern-576j)
 - [Freezed Kullanarak Flutter&#39;da JSON Nasıl Ayrıştırılır?  💫 🌌 ✨](https://dev.to/gulsenkeskin/freezed-kullanarak-flutterda-json-nasil-ayristirilir-10m6)
-- [Kafka da Neden Partition Oluştururuz? 💫 🌌 ✨](https://dev.to/gulsenkeskin/kafka-da-neden-partition-olustururuz-4fog)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
