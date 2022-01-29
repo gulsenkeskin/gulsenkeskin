@@ -14,9 +14,9 @@
 
 ### Reach out to me :octocat:
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" align="left" />][youtube]
+[<img  width="22" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" align="left" />][youtube]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/stackoverflow.svg" align="left" />][stackoverflow]
+[<img  width="22" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" align="left" />][stackoverflow]
 [<img  width="22" src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" align="left" />][dev]
 [<img  width="22" src="https://miro.medium.com/fit/c/56/56/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" align="left" />][medium]
 
@@ -56,7 +56,7 @@
 [![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)
 <br/>
 
-## 📺 Latest Youtube Videos
+### 📺 Latest Youtube Videos  [![Youtube](https://img.shields.io/static/v1?label=G%C3%BClsenkeskin&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 
 <!-- YOUTUBE:START -->
 - [Github readme dosyasına spotify box ekleme](https://www.youtube.com/watch?v=HQwX_Exw_SQ)
@@ -69,7 +69,7 @@
 <!-- YOUTUBE:END -->
   
 
-## 📚 Latest Blog Posts
+### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Provider ile Çalışmak 💫 🌌 ✨](https://dev.to/gulsenkeskin/provider-ile-calismak-l4l)
