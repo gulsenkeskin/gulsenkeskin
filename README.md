@@ -56,7 +56,7 @@
 [![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)
 <br/>
 
-## Latest Youtube Videos
+## 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
 - [Github readme dosyasına spotify box ekleme](https://www.youtube.com/watch?v=HQwX_Exw_SQ)
@@ -64,9 +64,12 @@
 - [MOORA YÖNTEMİ MASAÜSTÜ UYGULAMASI](https://www.youtube.com/watch?v=EDIuAQYkE1c)
 - [TODIM &lpar;Tomada de Decisao Interativa Multicriterio&rpar; method desktop application](https://www.youtube.com/watch?v=bHQoHSQNxPs)
 - [Çok Kriterli Karar Verme Teknikleri Masaüstü Uygulaması](https://www.youtube.com/watch?v=TBvpWqhEfVU)
-<!-- YOUTUBE:END -->
 
-## Latest Blog Posts
+➡️ [More Videos...](https://www.youtube.com/channel/UCPyso_RkkrkDjWAXx51smkg/videos)
+<!-- YOUTUBE:END -->
+  
+
+## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Provider ile Çalışmak 💫 🌌 ✨](https://dev.to/gulsenkeskin/provider-ile-calismak-l4l)
@@ -74,6 +77,8 @@
 - [Flutter Architecture 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-architecture-3lcc)
 - [Flutter Uygulama Mimarisi: Repository Pattern 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-uygulama-mimarisi-repository-pattern-576j)
 - [Freezed Kullanarak Flutter&#39;da JSON Nasıl Ayrıştırılır?  💫 🌌 ✨](https://dev.to/gulsenkeskin/freezed-kullanarak-flutterda-json-nasil-ayristirilir-10m6)
+  
+➡️ [More Articles...](https://dev.to/gulsenkeskin)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
