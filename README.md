@@ -91,10 +91,15 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenkeskin&layout=compact" >
 </details>
 
+
+[![Youtube](https://img.shields.io/static/v1?label=G%C3%BClsenkeskin&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
+
+
 [youtube]: https://www.youtube.com/channel/UCPyso_RkkrkDjWAXx51smkg
 [linkedin]: https://www.linkedin.com/in/g%C3%BClsen-keskin-8a5695123/
 [stackoverflow]: https://stackoverflow.com/users/14745090/g%c3%bclsen-keskin
 [dev]: https://dev.to/gulsenkeskin
 [medium]: https://medium.com/@gulsenkeskin2
 [twitter]: https://twitter.com/iamgulss
+
 
