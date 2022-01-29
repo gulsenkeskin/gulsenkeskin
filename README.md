@@ -69,7 +69,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter&#39;da FutureBuilder&#39;ı Anlamak 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutterda-futurebuilderi-anlamak-1agh)
+- [FutureBuilder 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutterda-futurebuilderi-anlamak-1agh)
 - [Flutter Architecture 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-architecture-3lcc)
 - [Flutter Uygulama Mimarisi: Repository Pattern 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-uygulama-mimarisi-repository-pattern-576j)
 - [Freezed Kullanarak Flutter&#39;da JSON Nasıl Ayrıştırılır?  💫 🌌 ✨](https://dev.to/gulsenkeskin/freezed-kullanarak-flutterda-json-nasil-ayristirilir-10m6)
