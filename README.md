@@ -48,11 +48,6 @@
 
 
 
-<br/>
-<br/>
-<br/>
-<br/>
-
 ### Spotify Playing :violin: :notes:
 [![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)
 <br/>
