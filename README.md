@@ -68,11 +68,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Provider Türleri 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-provider-turleri-546h)
 - [Provider ile Çalışmak 💫 🌌 ✨](https://dev.to/gulsenkeskin/provider-ile-calismak-l4l)
 - [FutureBuilder 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutterda-futurebuilderi-anlamak-1agh)
 - [Flutter Architecture 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-architecture-3lcc)
 - [Flutter Uygulama Mimarisi: Repository Pattern 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-uygulama-mimarisi-repository-pattern-576j)
-- [Freezed Kullanarak Flutter&#39;da JSON Nasıl Ayrıştırılır?  💫 🌌 ✨](https://dev.to/gulsenkeskin/freezed-kullanarak-flutterda-json-nasil-ayristirilir-10m6)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
