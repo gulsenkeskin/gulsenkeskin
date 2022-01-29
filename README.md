@@ -17,7 +17,7 @@
 [<img  width="22" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" align="left" />][youtube]
 [<img  width="22" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" align="left" />][linkedin]
 [<img  width="22" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" align="left" />][stackoverflow]
-[<img  width="22" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" align="left" />][dev]
+[<img  width="22" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" align="left" />][dev]
 [<img  width="22" src="https://miro.medium.com/fit/c/56/56/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" align="left" />][medium]
 
 
