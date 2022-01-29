@@ -47,6 +47,8 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" width="27" height="27"/>
 
 
+<br/>
+<br/>
 
 ### Spotify Playing :violin: :notes:
 [![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)
