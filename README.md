@@ -65,11 +65,7 @@
 - [MOORA YÖNTEMİ MASAÜSTÜ UYGULAMASI](https://www.youtube.com/watch?v=EDIuAQYkE1c)
 - [TODIM &lpar;Tomada de Decisao Interativa Multicriterio&rpar; method desktop application](https://www.youtube.com/watch?v=bHQoHSQNxPs)
 - [Çok Kriterli Karar Verme Teknikleri Masaüstü Uygulaması](https://www.youtube.com/watch?v=TBvpWqhEfVU)
-
-➡️ [More Videos...](https://www.youtube.com/channel/UCPyso_RkkrkDjWAXx51smkg/videos)
-  
-  
-[![Youtube](https://img.shields.io/static/v1?label=G%C3%BClsenkeskin&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
+- [More Videos...](https://www.youtube.com/channel/UCPyso_RkkrkDjWAXx51smkg/videos)
 <!-- YOUTUBE:END -->
   
 
