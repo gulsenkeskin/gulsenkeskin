@@ -19,6 +19,7 @@
 [<img  width="22" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" align="left" />][stackoverflow]
 [<img  width="22" src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" align="left" />][dev]
 [<img  width="22" src="https://miro.medium.com/fit/c/56/56/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" align="left" />][medium]
+[<img  width="22" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" align="left" />][twitter]
 
 
 <br/>
@@ -101,4 +102,5 @@
 [stackoverflow]: https://stackoverflow.com/users/14745090/g%c3%bclsen-keskin
 [dev]: https://dev.to/gulsenkeskin
 [medium]: https://medium.com/@gulsenkeskin2
+[twitter]: https://twitter.com/iamgulss
 
