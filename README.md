@@ -77,7 +77,6 @@
 - [Flutter Architecture 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-architecture-3lcc)
 - [Flutter Uygulama Mimarisi: Repository Pattern 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-uygulama-mimarisi-repository-pattern-576j)
 - [Freezed Kullanarak Flutter&#39;da JSON Nasıl Ayrıştırılır?  💫 🌌 ✨](https://dev.to/gulsenkeskin/freezed-kullanarak-flutterda-json-nasil-ayristirilir-10m6)
-- [More Articles...](https://dev.to/gulsenkeskin)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
