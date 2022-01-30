@@ -68,7 +68,7 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter da bir önceki ekrana nasıl veri gönderilir?](https://dev.to/gulsenkeskin/flutter-da-onceki-ekrana-nasil-veri-dondurulur-5482)
+- [Flutter da bir önceki ekrana nasıl veri gönderilir? 💫](https://dev.to/gulsenkeskin/flutter-da-onceki-ekrana-nasil-veri-dondurulur-5482)
 - [Flutter Provider Türleri 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-provider-turleri-546h)
 - [Provider ile Çalışmak 💫 🌌 ✨](https://dev.to/gulsenkeskin/provider-ile-calismak-l4l)
 - [FutureBuilder 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutterda-futurebuilderi-anlamak-1agh)
