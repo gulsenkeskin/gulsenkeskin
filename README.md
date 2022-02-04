@@ -1,4 +1,4 @@
-<img src="https://giphy.com/embed/2gNOZeTdqbLUeEvVjA" align="right" width="410" height="290">
+<img src="https://giphy.com/gifs/github-it-depends-2gNOZeTdqbLUeEvVjA" align="right" width="410" height="290">
 
 ### Hey there, I'm Gülsen. :dizzy: :milky_way: :sparkles:
 
