@@ -24,7 +24,7 @@
 <br/>
 <br/>
 
-### Tech I Use
+### Tech I Use 	🌼
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="27" height="27" />
 <img align="left" src="https://dartpad.dev/dart-192.png" width="27" height="27"/>
