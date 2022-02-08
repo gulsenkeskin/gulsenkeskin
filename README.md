@@ -91,7 +91,7 @@
 <br/>
 
 <a href="https://www.buymeacoffee.com/gulsen">
-  <img src="https://i.stack.imgur.com/LrzgEm.png" height="40px />
+  <img src="https://i.stack.imgur.com/LrzgEm.png" />
 </a>
                                                           
 <br/>
