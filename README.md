@@ -1,7 +1,5 @@
 <img src="https://media2.giphy.com/media/2gNOZeTdqbLUeEvVjA/giphy.gif?cid=790b761191e4069d05e49978e47df8fccea45639548ada05&rid=giphy.gif&ct=g" align="right" width="410" height="290">
-<a align="right" href="https://www.buymeacoffee.com/gulsen">
-  <img src="https://i.stack.imgur.com/LrzgEm.png" />
-</a>
+
 
 ### Hey there, I'm Gülsen. :dizzy: :milky_way: :sparkles:
 
@@ -94,6 +92,9 @@
 
 [![Youtube](https://img.shields.io/static/v1?label=G%C3%BClsenkeskin&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Linkedin: GülsenKeskin](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/g%C3%BClsen-keskin-8a5695123/)][linkedin]
+<a align="right" href="https://www.buymeacoffee.com/gulsen">
+  <img src="https://i.stack.imgur.com/LrzgEm.png" />
+</a>
 
 
 [youtube]: https://www.youtube.com/channel/UCPyso_RkkrkDjWAXx51smkg
