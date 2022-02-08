@@ -1,4 +1,7 @@
 <img src="https://media2.giphy.com/media/2gNOZeTdqbLUeEvVjA/giphy.gif?cid=790b761191e4069d05e49978e47df8fccea45639548ada05&rid=giphy.gif&ct=g" align="right" width="410" height="290">
+<a align="right" href="https://www.buymeacoffee.com/gulsen">
+  <img src="https://i.stack.imgur.com/LrzgEm.png" />
+</a>
 
 ### Hey there, I'm Gülsen. :dizzy: :milky_way: :sparkles:
 
