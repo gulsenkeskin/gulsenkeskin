@@ -88,8 +88,8 @@
 </details>
 <br/>
 <br/>
-<a align="right" href="https://www.buymeacoffee.com/gulsen">
-  <img src="https://i.stack.imgur.com/LrzgEm.png" />
+<a href="https://www.buymeacoffee.com/gulsen">
+  <img src="https://i.stack.imgur.com/LrzgEm.png" height="25px />
 </a>
 
 <br/>
