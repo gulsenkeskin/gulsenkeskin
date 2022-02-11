@@ -1,7 +1,7 @@
 <img src="https://media2.giphy.com/media/2gNOZeTdqbLUeEvVjA/giphy.gif?cid=790b761191e4069d05e49978e47df8fccea45639548ada05&rid=giphy.gif&ct=g" align="right" width="410" height="290">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7A090&duration=3000&vCenter=true&lines=Hey+there%2C+I'm+G%C3%BClsen.+%F0%9F%92%AB+%F0%9F%8C%8C+%E2%9C%A8)](https://git.io/typing-svg)
-### Software Developer | Youtube Content Creator
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F77CB7&duration=3000&vCenter=true&lines=Software+Developer+%7C+Youtube+Content+Creator)](https://git.io/typing-svg)
 
 <font color="pink">It' not a bug <em> it’s an undocumented </em> `<feature>` :crystal_ball: </font>
 
