@@ -93,13 +93,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gulsenkeskin&row=1&margin-w=5&theme=juicyfresh&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-<br/>
-<br/>
-
-<a href="https://www.buymeacoffee.com/gulsen">
-  <img src="https://i.stack.imgur.com/LrzgEm.png" />
-</a>
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
                                                     
