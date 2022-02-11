@@ -19,7 +19,7 @@
 [<img  width="22" src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" align="left" />][dev]
 [<img  width="22" src="https://miro.medium.com/fit/c/56/56/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" align="left" />][medium]
 <a href="https://www.buymeacoffee.com/gulsen">
-  <img  src="https://i.stack.imgur.com/LrzgEm.png" align="left" />
+    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/buymeacoffee.png" />
 </a>
 
 <br/>
