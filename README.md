@@ -90,7 +90,7 @@
 <br/>
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gulsenkeskin&row=1&column=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gulsenkeskin&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <br/>
