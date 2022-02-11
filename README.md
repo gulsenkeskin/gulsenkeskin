@@ -97,6 +97,8 @@
 <a href="https://www.buymeacoffee.com/gulsen">
   <img src="https://i.stack.imgur.com/LrzgEm.png" />
 </a>
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
                                                     
 
 [youtube]: https://www.youtube.com/channel/UCPyso_RkkrkDjWAXx51smkg
