@@ -80,12 +80,12 @@
 
 <details>
 <summary> :bulb: Github Stats </summary>
-<img src="https://github-readme-stats.vercel.app/api?username=gulsenkeskin&show_icons=true&theme=tokyonight"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=gulsenkeskin&show_icons=true&theme=tokyonight&no-bg=true"></img>
 </details>
 
 <details>
 <summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenkeskin&row=1&column=1&layout=compact&no-bg=true" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenkeskin&row=1&column=1&layout=compact" >
 </details>
 
 
