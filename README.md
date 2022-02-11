@@ -90,6 +90,12 @@
 <br/>
 <br/>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=gulsenkeskin)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<br/>
+<br/>
+
 <a href="https://www.buymeacoffee.com/gulsen">
   <img src="https://i.stack.imgur.com/LrzgEm.png" />
 </a>
