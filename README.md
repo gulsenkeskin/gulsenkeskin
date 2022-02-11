@@ -1,7 +1,7 @@
 <img src="https://media2.giphy.com/media/2gNOZeTdqbLUeEvVjA/giphy.gif?cid=790b761191e4069d05e49978e47df8fccea45639548ada05&rid=giphy.gif&ct=g" align="right" width="410" height="290">
 
 
-### Hey there, I'm Gülsen. :dizzy: :milky_way: :sparkles:   <img src="https://media2.giphy.com/media/YNk9HRcH9zJfi/giphy.gif?cid=790b7611cfcb692627d36f128bd2d38207ef43fc2722ed8e&rid=giphy.gif&ct=g" width="25px">
+### Hey there, I'm Gülsen. :dizzy: :milky_way: :sparkles:
 
 ### Software Developer | Youtube Content Creator
 
