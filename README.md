@@ -88,7 +88,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenkeskin&row=1&column=1&layout=compact" >
 </details>
 
-[![Gülsen Keskin StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14745090)](https://stackoverflow.com/users/14745090/g%c3%bclsen-keskin)
 
 <br/>
 <br/>
