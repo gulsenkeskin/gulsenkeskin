@@ -18,7 +18,9 @@
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/stackoverflow.svg" align="left" />][stackoverflow]
 [<img  width="22" src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" align="left" />][dev]
 [<img  width="22" src="https://miro.medium.com/fit/c/56/56/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" align="left" />][medium]
-
+<a href="https://www.buymeacoffee.com/gulsen">
+  <img  width="22" src="https://i.stack.imgur.com/LrzgEm.png" align="left" />
+</a>
 
 <br/>
 <br/>
@@ -93,11 +95,7 @@
 
 <br/>
 <br/>
-
-<a href="https://www.buymeacoffee.com/gulsen">
-  <img src="https://i.stack.imgur.com/LrzgEm.png" />
-</a>
-                                                          
+                                                    
 
 [youtube]: https://www.youtube.com/channel/UCPyso_RkkrkDjWAXx51smkg
 [linkedin]: https://www.linkedin.com/in/g%C3%BClsen-keskin-8a5695123/
