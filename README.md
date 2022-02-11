@@ -1,4 +1,4 @@
-<img src="https://media2.giphy.com/media/2gNOZeTdqbLUeEvVjA/giphy.gif?cid=790b761191e4069d05e49978e47df8fccea45639548ada05&rid=giphy.gif&ct=g" align="right" width="410" height="290">
+<img src="https://media2.giphy.com/media/YcJS0jaRPUQus/giphy.webp?cid=ecf05e47d9j7s46kpmvujqyp0l07reap0ezqk0a1tzmvx429&rid=giphy.webp&ct=g" align="right" width="410" height="290">
 
 
 ### Hey there, I'm Gülsen. :dizzy: :milky_way: :sparkles:
