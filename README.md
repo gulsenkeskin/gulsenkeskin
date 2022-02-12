@@ -69,11 +69,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Navigation Types](https://dev.to/gulsenkeskin/flutter-navigation-types-bd0)
 - [Flutter: Best Practices 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-best-practices-339p)
 - [Json nesnesini freezed modeline dönüştürmenin kolay yolu 💫 🌌 ✨](https://dev.to/gulsenkeskin/json-nesnesini-freezed-modeline-donusturmenin-kolay-yolu-37i2)
 - [PageStorage Class 💫 🌌 ✨](https://dev.to/gulsenkeskin/pagestorage-class-1da0)
 - [Flutter da bir önceki ekrana nasıl veri gönderilir? 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-da-onceki-ekrana-nasil-veri-dondurulur-5482)
-- [Flutter Provider Türleri 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-provider-turleri-546h)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
