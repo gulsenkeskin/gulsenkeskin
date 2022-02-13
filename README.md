@@ -1,4 +1,4 @@
-<img src="https://media2.giphy.com/media/2gNOZeTdqbLUeEvVjA/giphy.gif?cid=790b761191e4069d05e49978e47df8fccea45639548ada05&rid=giphy.gif&ct=g" align="right" width="410" height="290">
+<img src="https://i.giphy.com/media/24C2paIV0IBEY/giphy.webp" align="right" width="250" height="290">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A41FD7&duration=3000&vCenter=true&height=28&lines=Hey+there%2C+I'm+G%C3%BClsen.+%F0%9F%92%AB+%F0%9F%8C%8C+%E2%9C%A8)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A41FD7&size=14&duration=3000&vCenter=true&height=28&lines=Software+Developer+%7C+Youtube+Content+Creator)](https://git.io/typing-svg)
