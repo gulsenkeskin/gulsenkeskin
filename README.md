@@ -69,7 +69,7 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Navigation Types](https://dev.to/gulsenkeskin/flutter-navigation-types-bd0)
+- [Flutter Navigation Types 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-navigation-types-bd0)
 - [Flutter: Best Practices 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-best-practices-339p)
 - [Json nesnesini freezed modeline dönüştürmenin kolay yolu 💫 🌌 ✨](https://dev.to/gulsenkeskin/json-nesnesini-freezed-modeline-donusturmenin-kolay-yolu-37i2)
 - [PageStorage Class 💫 🌌 ✨](https://dev.to/gulsenkeskin/pagestorage-class-1da0)
