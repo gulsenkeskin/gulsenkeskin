@@ -58,11 +58,11 @@
 ### 📺 Latest Youtube Videos 
 
 <!-- YOUTUBE:START -->
-- [Github readme dosyasına spotify box ekleme](https://www.youtube.com/watch?v=HQwX_Exw_SQ)
 - [Bir CSS Dosyasına Farklı CSS Dosyalarını Dahil Edebilme](https://www.youtube.com/watch?v=Q_XeNXWfdOc)
 - [MOORA YÖNTEMİ MASAÜSTÜ UYGULAMASI](https://www.youtube.com/watch?v=EDIuAQYkE1c)
 - [TODIM &lpar;Tomada de Decisao Interativa Multicriterio&rpar; method desktop application](https://www.youtube.com/watch?v=bHQoHSQNxPs)
 - [Çok Kriterli Karar Verme Teknikleri Masaüstü Uygulaması](https://www.youtube.com/watch?v=TBvpWqhEfVU)
+- [Çok Kriterli Karar Verme: TODİM Masaüstü Uygulaması 4](https://www.youtube.com/watch?v=BXJWCzEPuWc)
 <!-- YOUTUBE:END -->
   
 
