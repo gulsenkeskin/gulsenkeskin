@@ -92,6 +92,7 @@
 <br/>
 <br/>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api ?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 [![trophy](https://github-profile-trophy.vercel.app/?username=gulsenkeskin&row=1&margin-w=5&theme=onedark&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
                                                     
