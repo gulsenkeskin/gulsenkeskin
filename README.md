@@ -99,7 +99,8 @@
 <br/>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal) <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
-
+<br/>
+<a href=#><img src="https://raw.githubusercontent.com/gulsenkeskin/gulsenkeskin/dist/snake.svg"></a>
                                                     
 
 [youtube]: https://www.youtube.com/channel/UCPyso_RkkrkDjWAXx51smkg
