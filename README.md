@@ -78,15 +78,14 @@
 <br/>
 
 <details>
-<summary> 🔮 Github Stats </summary>
-<img src="https://github-readme-stats.vercel.app/api?username=gulsenkeskin&show_icons=true"></img>
-</details>
-
-<details>
-<summary> 🔮 Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenkeskin&row=1&column=1&layout=compact" >
-</details>
-
+<summary> 🔮 Github Stats and Most Used Languages</summary>
+<a href="https://github.com/gulsenkeskin">
+<img height="225" src="https://github-readme-stats.vercel.app/api?username=gulsenkeskin&show_icons=true"></img>
+<img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenkeskin&row=1&column=1&layout=compact" >  
+</a>
+</details>  
+  
+  
 <details>
 <summary> 🔮 Profile Trophy</summary>
   
