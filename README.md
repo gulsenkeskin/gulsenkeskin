@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/3og0IFrHkIglEOg8Ba/giphy.gif?cid=790b7611bbc21252511faa7bd78680bfe58bf34b7933e0b0&rid=giphy.gif&ct=g" align="right" width="390" height="290">
+<img src="https://media0.giphy.com/media/3og0IFrHkIglEOg8Ba/giphy.gif?cid=790b7611bbc21252511faa7bd78680bfe58bf34b7933e0b0&rid=giphy.gif&ct=g" align="right" width="390" height="320">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A41FD7&duration=3000&vCenter=true&height=28&lines=Hello+World%2C+I'm+Gulsen+✨)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A41FD7&size=15&duration=3000&vCenter=true&height=28&lines=I'm+a+Software+Developer+at+Harmony+ERP)](https://git.io/typing-svg)
