@@ -103,8 +103,6 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal) <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
-![Alt Text](https://media1.giphy.com/media/Uodnf0BK7gSjzuwtDu/giphy.gif?cid=790b7611702047aa83d78b9ba75eb42658149c11482c26e9&rid=giphy.gif&ct=g)
-
                                                     
 
 [youtube]: https://www.youtube.com/channel/UCPyso_RkkrkDjWAXx51smkg
