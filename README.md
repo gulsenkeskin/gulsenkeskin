@@ -65,7 +65,6 @@
 - [PageStorage Class 💫 🌌 ✨](https://dev.to/gulsenkeskin/pagestorage-class-1da0)
 <!-- BLOG-POST-LIST:END -->
 
-<br/>
   
 ### 📺 Latest Youtube Videos 
 
@@ -76,6 +75,7 @@
 - [Çok Kriterli Karar Verme Teknikleri Masaüstü Uygulaması](https://www.youtube.com/watch?v=TBvpWqhEfVU)
 - [Çok Kriterli Karar Verme: TODİM Masaüstü Uygulaması 4](https://www.youtube.com/watch?v=BXJWCzEPuWc)
 <!-- YOUTUBE:END -->
+<br/>
 
 <details>
 <summary> :bulb: Github Stats </summary>
