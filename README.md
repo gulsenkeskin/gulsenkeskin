@@ -80,7 +80,7 @@
 
 <details>
 <summary> :bulb: Github Stats </summary>
-<img src="https://github-readme-stats.vercel.app/api?username=gulsenkeskin&show_icons=true&theme=tokyonight"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=gulsenkeskin&show_icons=true"></img>
 </details>
 
 <details>
