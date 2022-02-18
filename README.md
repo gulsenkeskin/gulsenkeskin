@@ -78,17 +78,17 @@
 <br/>
 
 <details>
-<summary> :bulb: Github Stats </summary>
+<summary> 🔮 Github Stats </summary>
 <img src="https://github-readme-stats.vercel.app/api?username=gulsenkeskin&show_icons=true"></img>
 </details>
 
 <details>
-<summary>:bulb: Most Used Languages</summary>
+<summary> 🔮 Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenkeskin&row=1&column=1&layout=compact" >
 </details>
 
 <details>
-<summary>:bulb: Profile Trophy</summary>
+<summary> 🔮 Profile Trophy</summary>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=gulsenkeskin&row=1&margin-w=5&theme=onedark&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
   
