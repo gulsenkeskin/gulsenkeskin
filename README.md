@@ -77,15 +77,15 @@
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
+  
+ <details>
+<summary>:bulb: Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenkeskin&row=1&column=1&layout=compact" >
+</details>
 
 <details>
 <summary> :bulb: Github Stats </summary>
 <img src="https://github-readme-stats.vercel.app/api?username=gulsenkeskin&show_icons=true"></img>
-</details>
-
-<details>
-<summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenkeskin&row=1&column=1&layout=compact" >
 </details>
 
 
