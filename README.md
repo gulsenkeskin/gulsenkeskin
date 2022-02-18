@@ -1,6 +1,6 @@
 <img src="https://media2.giphy.com/media/2gNOZeTdqbLUeEvVjA/giphy.gif?cid=790b761191e4069d05e49978e47df8fccea45639548ada05&rid=giphy.gif&ct=g" align="right" width="410" height="290">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A41FD7&duration=3000&vCenter=true&height=28&lines=Hello+World%2C+I'm+Gulsen+✨)](https://git.io/typing-svg)<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="30" width ="25">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A41FD7&duration=3000&vCenter=true&height=28&lines=Hello+World%2C+I'm+Gulsen+✨)]<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="30" width ="25">(https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A41FD7&size=15&duration=3000&vCenter=true&height=28&lines=I'm+a+Software+Developer+at+Harmony+ERP)](https://git.io/typing-svg)
 
 <font color="pink">It' not a bug <em> it’s an undocumented </em> `<feature>` :crystal_ball: </font>
