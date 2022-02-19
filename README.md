@@ -58,11 +58,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Temiz Kod Prensipleri: Bölüm 1 İsimlendirme Kuralları](https://dev.to/gulsenkeskin/flutter-temiz-kod-prensipleri-3kg7)
 - [RenderFlex Overflowed Nedir - Flutter Inspector ile Layout Sorunları Nasıl Ayıklanır? 💫 🌌 ✨](https://dev.to/gulsenkeskin/renderflex-overflowed-nedir-ve-flutter-inspector-ile-duzen-sorunlari-nasil-ayiklanir-ahk)
 - [Flutter Navigation Types 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-navigation-types-bd0)
 - [Flutter: Best Practices 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-best-practices-339p)
 - [Json nesnesini freezed modeline dönüştürmenin kolay yolu 💫 🌌 ✨](https://dev.to/gulsenkeskin/json-nesnesini-freezed-modeline-donusturmenin-kolay-yolu-37i2)
-- [PageStorage Class 💫 🌌 ✨](https://dev.to/gulsenkeskin/pagestorage-class-1da0)
 <!-- BLOG-POST-LIST:END -->
 
   
