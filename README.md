@@ -58,11 +58,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Linter Kuralları Bölüm 2: Stil Kuralları 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-linter-kurallari-bolum-2-stil-kurallari-3b16)
 - [Flutter Linter Kuralları Bölüm 1: Hata Kuralları 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-linter-kurallari-bolum-1-hata-kurallari-3d4j)
 - [Flutter Temiz Kod Prensipleri: Bölüm 1 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-temiz-kod-prensipleri-3kg7)
 - [RenderFlex Overflowed Nedir - Flutter Inspector ile Layout Sorunları Nasıl Ayıklanır? 💫 🌌 ✨](https://dev.to/gulsenkeskin/renderflex-overflowed-nedir-ve-flutter-inspector-ile-duzen-sorunlari-nasil-ayiklanir-ahk)
 - [Flutter Navigation Types 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-navigation-types-bd0)
-- [Flutter: Best Practices 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-best-practices-339p)
 <!-- BLOG-POST-LIST:END -->
 
   
