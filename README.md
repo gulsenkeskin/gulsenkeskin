@@ -57,7 +57,7 @@
 [![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)
 <br/>
   
-### 📚 Latest Blog Posts <img src="https://media0.giphy.com/media/RfkgPGoTX1geOFe8VA/giphy.gif?cid=ecf05e47blu8luown7wwhinvw0pjyntxe51je3mx2hg5k89w&rid=giphy.gif&ct=s" width="45" height="25"> 
+### 📚 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
 - [Flutter Linter Kuralları Bölüm 3: Pub Kuralları 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-linter-kurallari-bolum-3-pub-kurallari-pkb)
