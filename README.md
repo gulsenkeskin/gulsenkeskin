@@ -1,4 +1,4 @@
-<img src="https://media2.giphy.com/media/3JTwfEEdDlpyh6M0o2/giphy.gif?cid=ecf05e47evnuz02d981xckno359u4qvl8d61vgzvptxil43w&rid=giphy.gif&ct=s" align="right" width="410" height="310">
+<img src="https://giphy.com/gifs/nasa-lava-hot-hot-lava-world-illustration-26ufkqtCTNTRHQbxC" align="right" width="410" height="310">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A41FD7&duration=3000&vCenter=true&height=28&lines=Hello+World%2C+I'm+Gulsen+✨)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A41FD7&size=15&duration=3000&vCenter=true&height=28&lines=I'm+a+Software+Developer+at+Harmony+ERP)](https://git.io/typing-svg)
