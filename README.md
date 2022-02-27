@@ -5,10 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A41FD7&duration=3000&vCenter=true&height=28&lines=Hello+World%2C+I'm+Gulsen+✨)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A41FD7&size=15&duration=3000&vCenter=true&height=28&lines=I'm+a+Software+Developer+at+Harmony+ERP)](https://git.io/typing-svg)
 
-<font color="pink">It' not a bug <em> it’s an undocumented </em> `<feature>` :crystal_ball: </font> <img src="https://media2.giphy.com/media/3o7btLYqcZhUb2GP16/200.webp" width="35" height="25"> 
+<font color="pink">It' not a bug <em> it’s an undocumented </em> `<feature>` :crystal_ball: </font> 
 
-
-#
 
 [![GitHub followers](https://img.shields.io/github/followers/gulsenkeskin?style=social)](https://github.com/gulsenkeskin?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/gulsenkeskin?style=social)
@@ -29,7 +27,7 @@
 <br/>
 <br/>
 
-### Tech I Use 	:octocat:
+### Tech I Use 	<img src="https://media2.giphy.com/media/3o7btLYqcZhUb2GP16/200.webp" width="35" height="25"> 
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="27" height="27" />
 <img align="left" src="https://dartpad.dev/dart-192.png" width="27" height="27"/>
