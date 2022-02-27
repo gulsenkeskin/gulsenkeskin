@@ -27,7 +27,7 @@
 <br/>
 <br/>
 
-### Tech I Use 	<img src="https://media2.giphy.com/media/3o7btLYqcZhUb2GP16/200.webp" width="35" height="25"> 
+### Tech I Use 	
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="27" height="27" />
 <img align="left" src="https://dartpad.dev/dart-192.png" width="27" height="27"/>
