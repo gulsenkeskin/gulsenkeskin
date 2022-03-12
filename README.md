@@ -22,7 +22,7 @@
 <a href="https://www.buymeacoffee.com/gulsen">
   <img align="left" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" />
 </a>
-[<img  width="22" src="https://www.iconpacks.net/icons/2/free-behance-icon-2161-thumb.png" align="left" />][behance]
+[<img  width="25" src="https://www.iconpacks.net/icons/2/free-behance-icon-2161-thumb.png" align="left" />][behance]
 
 
 <br/>
