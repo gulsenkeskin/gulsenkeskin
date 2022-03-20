@@ -100,7 +100,7 @@
 <details>
 <summary> 🔮 GitHub Activity Graph</summary>
   
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=gulsenkeskin&hide_border=true)
+![Asmit's GitHub activity graph]https://activity-graph.herokuapp.com/graph?username=gulsenkeskin&hide_border=true&theme=redical)
  
 </details>
 
