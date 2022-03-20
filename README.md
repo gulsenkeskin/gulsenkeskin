@@ -60,11 +60,11 @@
 ### 📚 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Consumer Widget](https://dev.to/gulsenkeskin/flutter-consumer-widget-2ap0)
 - [Dart/Flutter Liste Methodları 💫 🌌 ✨](https://dev.to/gulsenkeskin/dartflutter-liste-methodlari-4ek2)
 - [Dart/Flutter Liste Özellikleri 💫 🌌 ✨](https://dev.to/gulsenkeskin/dartflutter-liste-ozellikleri-2hcf)
 - [Flutter Constants Best Practices 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-constants-best-practices-55og)
 - [Flutter Linter Kuralları Bölüm 3: Pub Kuralları 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-linter-kurallari-bolum-3-pub-kurallari-pkb)
-- [Flutter Linter Kuralları Bölüm 2: Stil Kuralları 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-linter-kurallari-bolum-2-stil-kurallari-3b16)
 <!-- BLOG-POST-LIST:END -->
 
   
