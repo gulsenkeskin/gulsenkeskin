@@ -60,11 +60,11 @@
 ### 📚 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Element Tree ve State Objeleri](https://dev.to/gulsenkeskin/element-tree-ve-state-objeleri-1o0b)
+- [Flutter Element ve Widgetlar](https://dev.to/gulsenkeskin/flutter-element-ve-widgetlar-44h4)
 - [Flutter BuildContext 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-buildcontext-12m9)
 - [Flutter initState 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-initstate-4904)
 - [Flutter setState 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutterdart-setstate-jha)
-- [Dart Private Value Kullanımı 💫 🌌 ✨](https://dev.to/gulsenkeskin/dart-private-value-kullanimi-3abe)
-- [Stateful widgets 💫 🌌 ✨](https://dev.to/gulsenkeskin/stateful-widgets-5ene)
 <!-- BLOG-POST-LIST:END -->
 
   
