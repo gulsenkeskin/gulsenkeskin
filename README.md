@@ -60,11 +60,11 @@
 ### 📚 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter/Dart SetState 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutterdart-setstate-jha)
+- [Dart Private Value Kullanımı 💫 🌌 ✨](https://dev.to/gulsenkeskin/dart-private-value-kullanimi-3abe)
+- [Stateful widgets 💫 🌌 ✨](https://dev.to/gulsenkeskin/stateful-widgets-5ene)
 - [Stateless widgets 💫 🌌 ✨](https://dev.to/gulsenkeskin/stateless-widgets-21c5)
 - [Null Safety 💫 🌌 ✨](https://dev.to/gulsenkeskin/null-safety-3idg)
-- [Flutter copyWith Method 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-copywith-method-27im)
-- [Flutter Consumer Widget 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-consumer-widget-2ap0)
-- [Dart/Flutter Liste Methodları 💫 🌌 ✨](https://dev.to/gulsenkeskin/dartflutter-liste-methodlari-4ek2)
 <!-- BLOG-POST-LIST:END -->
 
   
