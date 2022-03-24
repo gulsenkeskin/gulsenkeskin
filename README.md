@@ -60,11 +60,11 @@
 ### 📚 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter BuildContext 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-buildcontext-12m9)
 - [Flutter initState 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-initstate-4904)
 - [Flutter setState 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutterdart-setstate-jha)
 - [Dart Private Value Kullanımı 💫 🌌 ✨](https://dev.to/gulsenkeskin/dart-private-value-kullanimi-3abe)
 - [Stateful widgets 💫 🌌 ✨](https://dev.to/gulsenkeskin/stateful-widgets-5ene)
-- [Stateless widgets 💫 🌌 ✨](https://dev.to/gulsenkeskin/stateless-widgets-21c5)
 <!-- BLOG-POST-LIST:END -->
 
   
