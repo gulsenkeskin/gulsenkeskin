@@ -60,11 +60,11 @@
 ### 📚 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Scaffold Widget 💫 🌌 ✨](https://dev.to/gulsenkeskin/scaffold-widget-393p)
 - [MaterialApp widget 💫 🌌 ✨](https://dev.to/gulsenkeskin/materialapp-widget-334e)
 - [Dart Future 💫 🌌 ✨](https://dev.to/gulsenkeskin/dart-future-41ea)
 - [Flutter SystemChrome 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-systemchrome-4p68)
 - [Flutter Temel Bilgiler 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-temel-bilgiler-3aef)
-- [Flutter Widget Keys 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-widget-keys-1hfl)
 <!-- BLOG-POST-LIST:END -->
 
   
