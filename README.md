@@ -60,7 +60,7 @@
 ### 📚 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Layout ve UI Widget&#39;ları](https://dev.to/gulsenkeskin/flutter-layout-ve-ui-widgetlari-4n2c)
+- [Flutter Layout ve UI Widget&#39;ları 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-layout-ve-ui-widgetlari-4n2c)
 - [Flutter Stil ve Temalar 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-stil-ve-temalar-1nk1)
 - [AppBar Widget 💫 🌌 ✨](https://dev.to/gulsenkeskin/appbar-widget-2k7o)
 - [Scaffold Widget 💫 🌌 ✨](https://dev.to/gulsenkeskin/scaffold-widget-393p)
