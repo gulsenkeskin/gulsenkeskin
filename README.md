@@ -60,11 +60,11 @@
 ### 📚 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter App IOS Build 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-app-ios-build-48lc)
 - [Flutter Form Widget 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-formlari-5b7k)
 - [Dismissible Widget 💫 🌌 ✨](https://dev.to/gulsenkeskin/dismissible-widget-47c4)
 - [GestureDetector Widget 💫 🌌 ✨](https://dev.to/gulsenkeskin/gesturedetector-widget-31n0)
 - [Flutter Layout ve UI Widget&#39;ları 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-layout-ve-ui-widgetlari-4n2c)
-- [Flutter Stil ve Temalar 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-stil-ve-temalar-1nk1)
 <!-- BLOG-POST-LIST:END -->
 
   
