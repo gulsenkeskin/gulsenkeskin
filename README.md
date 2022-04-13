@@ -60,8 +60,8 @@
 ### 📚 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter State Yönetimi : Bölüm 1 🪐](https://dev.to/gulsenkeskin/flutter-state-yonetimi-bolum-1-35a3)
-- [Flutter&#39;da Yönlendirme &lpar;Routing&rpar; 🪐](https://dev.to/gulsenkeskin/flutterda-yonlendirme-routing-33m6)
+- [Flutter State Yönetimi : Bölüm 1 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-state-yonetimi-bolum-1-35a3)
+- [Flutter&#39;da Yönlendirme &lpar;Routing&rpar; 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutterda-yonlendirme-routing-33m6)
 - [Flutter Form UI 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-form-ui-53pc)
 - [Flutter App IOS Build 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-app-ios-build-48lc)
 - [Flutter Form Widget 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-formlari-5b7k)
