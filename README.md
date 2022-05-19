@@ -15,7 +15,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/gulsenkeskin?style=social)
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fgulsenkeskin.gulsenkeskin%2Freadme)
 <br>
-<br>
+
 ### Reach out to me :octocat:
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" align="left" />][youtube]
