@@ -8,9 +8,7 @@
 </br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A41FD7&size=15&duration=3000&vCenter=true&height=28&lines=I'm+a+web+and+mobile+developer+at+HarmonyERP)](https://git.io/typing-svg)
 
-<font color="pink">It' not a bug <em> it’s an undocumented </em> `<feature>` :crystal_ball: </font> </col>
-<col><img src="https://media4.giphy.com/media/F3LJZ4I0JxoZi/giphy.gif?cid=ecf05e477bfj4ukzo12k2lsmsgbx1l2h8hb98sxmizwfrgm7&rid=giphy.gif&ct=g" width="390" height="280"></col>
-</row>
+<font color="pink">It' not a bug <em> it’s an undocumented </em> `<feature>` :crystal_ball: </font> 
 
 
 [![GitHub followers](https://img.shields.io/github/followers/gulsenkeskin?style=social)](https://github.com/gulsenkeskin?tab=followers)
@@ -29,6 +27,9 @@
 </a>
 [<img  width="27" src="https://www.iconpacks.net/icons/2/free-behance-icon-2161-thumb.png" align="left" />][behance]
 
+  </col>
+<col><img src="https://media4.giphy.com/media/F3LJZ4I0JxoZi/giphy.gif?cid=ecf05e477bfj4ukzo12k2lsmsgbx1l2h8hb98sxmizwfrgm7&rid=giphy.gif&ct=g" width="390" height="280"></col>
+</row>
 <br/>
 <br/>
 
