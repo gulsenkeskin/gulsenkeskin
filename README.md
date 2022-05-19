@@ -25,7 +25,7 @@
   <img align="left" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" />
 </a>
 [<img  width="27" src="https://www.iconpacks.net/icons/2/free-behance-icon-2161-thumb.png" align="left" />][behance]
-
+</p> <p align="right"><img src="https://media4.giphy.com/media/F3LJZ4I0JxoZi/giphy.gif?cid=ecf05e477bfj4ukzo12k2lsmsgbx1l2h8hb98sxmizwfrgm7&rid=giphy.gif&ct=g" width="390" height="280"></p>
 
 <br/>
 <br/>
@@ -50,7 +50,7 @@
 <img align="left" src="https://logowik.com/content/uploads/images/flutter5786.jpg" width="27" height="27"/>
 <img align="left" src="https://camo.githubusercontent.com/4b95df4d6ca7a01afc25d27159804dc5a7d0df41d8131aaf50c9f84847dfda21/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" width="27" height="27"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" width="27" height="27"/>
-</p> <p align="right"><img src="https://media4.giphy.com/media/F3LJZ4I0JxoZi/giphy.gif?cid=ecf05e477bfj4ukzo12k2lsmsgbx1l2h8hb98sxmizwfrgm7&rid=giphy.gif&ct=g" width="390" height="280"></p>
+
 <br/>
 <br/>
 <br/>
