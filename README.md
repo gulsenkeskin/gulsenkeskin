@@ -25,7 +25,7 @@
   <img align="left" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" />
 </a>
 [<img  width="27" src="https://www.iconpacks.net/icons/2/free-behance-icon-2161-thumb.png" align="left" />][behance]
-<p align="right" width="390" height="280"><img src="https://media4.giphy.com/media/F3LJZ4I0JxoZi/giphy.gif?cid=ecf05e477bfj4ukzo12k2lsmsgbx1l2h8hb98sxmizwfrgm7&rid=giphy.gif&ct=g" width="390" height="280"></p>
+<img src="https://media4.giphy.com/media/F3LJZ4I0JxoZi/giphy.gif?cid=ecf05e477bfj4ukzo12k2lsmsgbx1l2h8hb98sxmizwfrgm7&rid=giphy.gif&ct=g" width="390" height="280">
 
 <br/>
 <br/>
