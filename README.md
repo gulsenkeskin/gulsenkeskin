@@ -1,7 +1,7 @@
 <p align="right"><img src="https://media4.giphy.com/media/F3LJZ4I0JxoZi/giphy.gif?cid=ecf05e477bfj4ukzo12k2lsmsgbx1l2h8hb98sxmizwfrgm7&rid=giphy.gif&ct=g" width="390" height="280"></p>
 <p align="left"><img src="https://media1.giphy.com/media/ZbftmEwht0nDkl6XFX/giphy.gif?cid=ecf05e47l19lzmqnuv3o320i63xy3da13bsxhp10w9z9wm8s&rid=giphy.gif&ct=s" width="45" height="25"> <img src="https://media2.giphy.com/media/3JTwfEEdDlpyh6M0o2/giphy.gif?cid=790b7611e9c9e8bc9ce40170c9368926692fdb648405ee7c&rid=giphy.gif&ct=s" width="45" height="25"> <img src="https://media0.giphy.com/media/2oO1ZKeNbqOfdZq3Xg/giphy.gif?cid=790b7611ba913d63c2062a9ed006330a9e0b3b82405ca556&rid=giphy.gif&ct=s" width="40" height="25"> <img src="https://media4.giphy.com/media/Jfcb1m7szdya4/giphy.gif?cid=790b7611ba301e9e5a458343e47a2e69f896f8a65b16c282&rid=giphy.gif&ct=s" width="45" height="25">
 <img src="https://media3.giphy.com/media/TpNTATTp5c2Ri/giphy.gif?cid=790b7611a9ccd55e6b764aacf4c7a277dc6c1d020f1e187e&rid=giphy.gif&ct=s" width="45" height="25">
-<img src="https://media0.giphy.com/media/5eFFhJ3yrAIndRQeFx/giphy.gif?cid=790b761159865a018304701e37e468edc07abbeca1073a30&rid=giphy.gif&ct=s" width="35" height="25"></p>  
+<img src="https://media0.giphy.com/media/5eFFhJ3yrAIndRQeFx/giphy.gif?cid=790b761159865a018304701e37e468edc07abbeca1073a30&rid=giphy.gif&ct=s" width="35" height="25"> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A41FD7&duration=3000&vCenter=true&height=28&lines=Hello+World%2C+I'm+Gulsen+✨)](https://git.io/typing-svg)
 </br>
@@ -50,7 +50,7 @@
 <img align="left" src="https://logowik.com/content/uploads/images/flutter5786.jpg" width="27" height="27"/>
 <img align="left" src="https://camo.githubusercontent.com/4b95df4d6ca7a01afc25d27159804dc5a7d0df41d8131aaf50c9f84847dfda21/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" width="27" height="27"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" width="27" height="27"/>
-
+</p> 
 <br/>
 <br/>
 <br/>
