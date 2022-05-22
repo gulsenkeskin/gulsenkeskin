@@ -6,7 +6,7 @@
 <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A41FD7&duration=3000&vCenter=true&height=28&lines=Hello+World%2C+I'm+Gulsen+✨)](https://git.io/typing-svg)
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A41FD7&size=15&duration=3000&vCenter=true&height=28&lines=I'm+a+web+and+mobile+developer+at+HarmonyERP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A41FD7&size=15&duration=3000&vCenter=true&height=28&lines=I'm+a+web+and+mobile+developer+at+HarmonQ)](https://git.io/typing-svg)
 <br>
 <font color="pink">It' not a bug <em> it’s an undocumented </em> `<feature>` :crystal_ball: </font> 
 <br>
