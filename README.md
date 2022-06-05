@@ -114,7 +114,7 @@
 <br/>
 <br/>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal) <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="200" height="200">
+![](https://quotes-github-readme.vercel.app/api?type=horizontal) <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="250" height="180">
 
                                                     
 
