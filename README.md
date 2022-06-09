@@ -113,9 +113,6 @@
 <a href=#><img src="https://raw.githubusercontent.com/gulsenkeskin/gulsenkeskin/dist/snake.svg"></a>
 </details>
   
-  
-<br/>
-<br/>
 <br/>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal) <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="250" height="180">
