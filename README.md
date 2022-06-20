@@ -64,11 +64,11 @@
 ### 📚 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter WillPopScope 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-willpopscope-o4c)
 - [Nesneye Yönelik &lpar;Object-Orientated&rpar; Dil Özellikleri 💫 🌌 ✨](https://dev.to/gulsenkeskin/nesneye-yonelik-object-orientated-dil-ozellikleri-2lkd)
 - [Strings 💫 🌌 ✨](https://dev.to/gulsenkeskin/strings-4268)
 - [Dart Typing 💫 🌌 ✨](https://dev.to/gulsenkeskin/dart-typing-74k)
 - [Flutter State Yönetimi : Bölüm 2 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-state-yonetimi-bolum-2-2mk1)
-- [Flutter State Yönetimi : Bölüm 1 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-state-yonetimi-bolum-1-35a3)
 <!-- BLOG-POST-LIST:END -->
 
   
