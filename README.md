@@ -64,11 +64,11 @@
 ### 📚 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Widget Türleri](https://dev.to/gulsenkeskin/flutter-widget-turleri-ace)
+- [Flutter Layout 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-layout-4eng)
+- [Flutter Widget Türleri 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-widget-turleri-ace)
 - [FLUTTER NETWORKING 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-networking-4889)
 - [Flutter WillPopScope 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-willpopscope-o4c)
 - [Nesneye Yönelik &lpar;Object-Orientated&rpar; Dil Özellikleri 💫 🌌 ✨](https://dev.to/gulsenkeskin/nesneye-yonelik-object-orientated-dil-ozellikleri-2lkd)
-- [Strings 💫 🌌 ✨](https://dev.to/gulsenkeskin/strings-4268)
 <!-- BLOG-POST-LIST:END -->
 
   
