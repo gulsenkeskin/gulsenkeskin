@@ -69,9 +69,8 @@
 - [Flutter Layout 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-layout-4eng)
 <!-- BLOG-POST-LIST:END -->
 
-  
-### 📺 Latest Youtube Videos 
-
+<details>
+<summary> 📺 Latest Youtube Videos  </summary>  
 <!-- YOUTUBE:START -->
 - [Bir CSS Dosyasına Farklı CSS Dosyalarını Dahil Edebilme](https://www.youtube.com/watch?v=Q_XeNXWfdOc)
 - [MOORA YÖNTEMİ MASAÜSTÜ UYGULAMASI](https://www.youtube.com/watch?v=EDIuAQYkE1c)
@@ -79,6 +78,8 @@
 - [Çok Kriterli Karar Verme Teknikleri Masaüstü Uygulaması](https://www.youtube.com/watch?v=TBvpWqhEfVU)
 - [Çok Kriterli Karar Verme: TODİM Masaüstü Uygulaması 4](https://www.youtube.com/watch?v=BXJWCzEPuWc)
 <!-- YOUTUBE:END -->
+</details>
+
 <br>
 
 <details>
