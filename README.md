@@ -70,7 +70,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <details>
-<summary> 📺 Latest Youtube Videos  </summary>  
+<summary> 🔮 Latest Youtube Videos  </summary>  
 <!-- YOUTUBE:START -->
 - [Bir CSS Dosyasına Farklı CSS Dosyalarını Dahil Edebilme](https://www.youtube.com/watch?v=Q_XeNXWfdOc)
 - [MOORA YÖNTEMİ MASAÜSTÜ UYGULAMASI](https://www.youtube.com/watch?v=EDIuAQYkE1c)
