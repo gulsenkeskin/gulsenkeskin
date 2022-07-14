@@ -112,9 +112,13 @@
 <a href=#><img src="https://raw.githubusercontent.com/gulsenkeskin/gulsenkeskin/dist/snake.svg"></a>
 </details>
   
-<br/>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal) <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="250" height="180">
+<details>
+<summary> 🔮 Word of the day</summary>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal) 
+</details>
+
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="250" height="180">
 
                                                     
 
