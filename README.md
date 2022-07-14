@@ -59,8 +59,9 @@
 [![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)
 <br/>
   
-### 📚 Latest Blog Posts 
 
+<details>
+<summary> 🔮 Latest Blog Posts</summary>
 <!-- BLOG-POST-LIST:START -->
 - [Flutter Responsive Tasarım 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-responsive-tasarim-1mk0)
 - [Flutter Entegrasyon Testi | Bölüm 2💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-entegrasyon-testi-bolum-2-3n56)
@@ -68,6 +69,7 @@
 - [Dart Spread Operator 💫 🌌 ✨](https://dev.to/gulsenkeskin/dart-spread-operator-4hh1)
 - [Flutter Layout 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-layout-4eng)
 <!-- BLOG-POST-LIST:END -->
+</details>
 
 <details>
 <summary> 🔮 Latest Youtube Videos  </summary>  
