@@ -116,8 +116,8 @@
 <details>
 <summary> 🔮 Word Of The Day</summary>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal) 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="250" height="180">
-</details>
+</details><img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="250" height="180">
+
 
 
                                                     
