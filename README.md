@@ -80,8 +80,6 @@
 <!-- YOUTUBE:END -->
 </details>
 
-<br>
-
 <details>
 <summary> 🔮 Github Stats </summary>
 <img src="https://github-readme-stats.vercel.app/api?username=gulsenkeskin&show_icons=true"></img>
