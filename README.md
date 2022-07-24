@@ -122,7 +122,9 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal) 
 
-</details><img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="250" height="180">
+</details>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1072DE&width=800&lines=If+things+are+not+failing%2C+you+are+not+innovating+enough.++Elon+Musk+%F0%9F%92%99)](https://git.io/typing-svg)<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="250" height="180">
 
 
 
