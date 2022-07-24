@@ -6,7 +6,7 @@
 <img src="https://media0.giphy.com/media/5eFFhJ3yrAIndRQeFx/giphy.gif?cid=790b761159865a018304701e37e468edc07abbeca1073a30&rid=giphy.gif&ct=s" width="35" height="25"> 
 <br>
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A41FD7&size=15&duration=3000&vCenter=true&height=28&lines=I'm+a+web+and+mobile+developer+in+HarmonQ)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ibarra+Real+Nova&size=26&color=1072DE&multiline=true&width=800&lines=If+things+are+not+failing%2C+you+are+not+innovating+enough.++Elon+Musk+%F0%9F%92%99)](https://git.io/typing-svg)
 <br>
 <font color="pink">It' not a bug <em> it’s an undocumented </em> `<feature>` :crystal_ball: </font> 
 <br>
@@ -122,9 +122,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal) 
 
-</details>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1072DE&width=800&lines=If+things+are+not+failing%2C+you+are+not+innovating+enough.++Elon+Musk+%F0%9F%92%99)](https://git.io/typing-svg)<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="250" height="180">
+</details><img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="250" height="180">
 
 
 
