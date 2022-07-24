@@ -8,8 +8,8 @@
 <br>
 <font color="pink">It' not a bug <em> it’s an undocumented </em> `<feature>` :crystal_ball: </font> 
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ibarra+Real+Nova&size=15&color=1072DE&multiline=true&width=410&lines=If+things+are+not+failing%2C+you+are+not+innovating+enough.+;Elon+Musk+%F0%9F%92%99)](https://git.io/typing-svg)
 <br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ibarra+Real+Nova&size=15&color=1072DE&multiline=true&width=410&lines=If+things+are+not+failing%2C+you+are+not+innovating+enough.+;Elon+Musk+%F0%9F%92%99)](https://git.io/typing-svg)
 <br>
 [![GitHub followers](https://img.shields.io/github/followers/gulsenkeskin?style=social)](https://github.com/gulsenkeskin?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/gulsenkeskin?style=social)
