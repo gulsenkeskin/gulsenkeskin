@@ -16,7 +16,7 @@
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fgulsenkeskin.gulsenkeskin%2Freadme)
 <br>
 
-### Reach out to me :octocat:
+### Connect With Me :octocat:
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" align="left" />][youtube]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
@@ -30,7 +30,7 @@
 <br>
 <br>
 
-### Tech I Use 	
+### Languages and Tools	
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="27" height="27" />
 <img align="left" src="https://dartpad.dev/dart-192.png" width="27" height="27"/>
