@@ -63,6 +63,7 @@
 <details>
 <summary> 🔮 Latest Blog Posts</summary>
 
+
 <!-- BLOG-POST-LIST:START -->
 - [Flutter Responsive Tasarım 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-responsive-tasarim-1mk0)
 - [Flutter Entegrasyon Testi | Bölüm 2💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-entegrasyon-testi-bolum-2-3n56)
@@ -76,6 +77,7 @@
 <details>
 <summary> 🔮 Latest Youtube Videos  </summary>  
 
+
 <!-- YOUTUBE:START -->
 - [Bir CSS Dosyasına Farklı CSS Dosyalarını Dahil Edebilme](https://www.youtube.com/watch?v=Q_XeNXWfdOc)
 - [MOORA YÖNTEMİ MASAÜSTÜ UYGULAMASI](https://www.youtube.com/watch?v=EDIuAQYkE1c)
@@ -88,11 +90,15 @@
 
 <details>
 <summary> 🔮 Github Stats </summary>
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=gulsenkeskin&show_icons=true"></img>
 </details>
 
 <details>
 <summary> 🔮 Most Used Languages</summary>
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenkeskin&row=1&column=1&layout=compact" >
 </details>
   
@@ -107,18 +113,22 @@
 <details>
 <summary> 🔮 GitHub Activity Graph</summary>
   
+  
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=gulsenkeskin&hide_border=true)
  
 </details>
 
 <details>
 <summary> 🔮 Snake</summary>
+
+
 <a href=#><img src="https://raw.githubusercontent.com/gulsenkeskin/gulsenkeskin/dist/snake.svg"></a>
 </details>
   
 
 <details>
 <summary> 🔮 Word Of The Day</summary>
+
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal) 
 
