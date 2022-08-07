@@ -65,11 +65,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Versiyon Düşürme](https://dev.to/gulsenkeskin/flutter-versiyon-dusurme-1512)
+- [React Versiyon Düşürme](https://dev.to/gulsenkeskin/react-versiyon-dusurme-54j1)
 - [Flutter Responsive Tasarım 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-responsive-tasarim-1mk0)
 - [Flutter Entegrasyon Testi | Bölüm 2💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-entegrasyon-testi-bolum-2-3n56)
 - [Flutter Entegrasyon Testi | Bölüm 1 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-entegrasyon-testi-47kh)
-- [Dart Spread Operator 💫 🌌 ✨](https://dev.to/gulsenkeskin/dart-spread-operator-4hh1)
-- [Flutter Layout 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-layout-4eng)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
