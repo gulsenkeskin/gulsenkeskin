@@ -6,7 +6,7 @@
 <img src="https://media0.giphy.com/media/5eFFhJ3yrAIndRQeFx/giphy.gif?cid=790b761159865a018304701e37e468edc07abbeca1073a30&rid=giphy.gif&ct=s" width="35" height="25"> 
 <br>
 <br>
-<font color="pink">It' not a bug <em> it’s an undocumented </em> `<feature>` :crystal_ball: </font> 
+<font color="pink">It's not a bug <em> it’s an undocumented </em> `<feature>` :crystal_ball: </font> 
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ibarra+Real+Nova&size=15&color=1072DE&multiline=true&width=410&height=60&lines=If+things+are+not+failing%2C+you+are+not+innovating+enough.+;Elon+Musk+%F0%9F%92%99)](https://git.io/typing-svg)
