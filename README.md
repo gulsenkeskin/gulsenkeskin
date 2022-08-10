@@ -70,7 +70,7 @@
 - [Flutter Entegrasyon Testi | Bölüm 1 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-entegrasyon-testi-47kh)
 <!-- BLOG-POST-LIST:END -->
 
-
+<br>
 
 ## Latest Youtube Videos 🔮
 
@@ -82,7 +82,7 @@
 - [Çok Kriterli Karar Verme: TODİM Masaüstü Uygulaması 4](https://www.youtube.com/watch?v=BXJWCzEPuWc)
 <!-- YOUTUBE:END -->
 
-
+<br>
 
 
 <details>
