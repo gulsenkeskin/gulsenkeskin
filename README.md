@@ -60,10 +60,7 @@
 <br/>
   
 
-<details>
-<summary> 🔮 Latest Blog Posts</summary>
-
-
+🔮 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Flutter Versiyon Düşürme](https://dev.to/gulsenkeskin/flutter-versiyon-dusurme-1512)
 - [React Versiyon Düşürme](https://dev.to/gulsenkeskin/react-versiyon-dusurme-54j1)
@@ -72,11 +69,8 @@
 - [Flutter Entegrasyon Testi | Bölüm 1 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-entegrasyon-testi-47kh)
 <!-- BLOG-POST-LIST:END -->
 
-</details>
 
-<details>
-<summary> 🔮 Latest Youtube Videos  </summary>  
-
+🔮 Latest Youtube Videos 
 
 <!-- YOUTUBE:START -->
 - [Bir CSS Dosyasına Farklı CSS Dosyalarını Dahil Edebilme](https://www.youtube.com/watch?v=Q_XeNXWfdOc)
@@ -86,7 +80,6 @@
 - [Çok Kriterli Karar Verme: TODİM Masaüstü Uygulaması 4](https://www.youtube.com/watch?v=BXJWCzEPuWc)
 <!-- YOUTUBE:END -->
 
-</details>
 
 <details>
 <summary> 🔮 Github Stats </summary>
