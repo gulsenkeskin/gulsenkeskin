@@ -70,7 +70,6 @@
 - [Flutter Entegrasyon Testi | Bölüm 1 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-entegrasyon-testi-47kh)
 <!-- BLOG-POST-LIST:END -->
 
-<br>
 
 ## Latest Youtube Videos 🔮
 
