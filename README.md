@@ -71,6 +71,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
+
 ## Latest Youtube Videos 🔮
 
 <!-- YOUTUBE:START -->
@@ -80,6 +81,8 @@
 - [Çok Kriterli Karar Verme Teknikleri Masaüstü Uygulaması](https://www.youtube.com/watch?v=TBvpWqhEfVU)
 - [Çok Kriterli Karar Verme: TODİM Masaüstü Uygulaması 4](https://www.youtube.com/watch?v=BXJWCzEPuWc)
 <!-- YOUTUBE:END -->
+
+
 
 
 <details>
