@@ -60,7 +60,7 @@
 <br/>
   
 
-🔮 ###Latest Blog Posts
+### Latest Blog Posts 🔮
 <!-- BLOG-POST-LIST:START -->
 - [Flutter Versiyon Düşürme](https://dev.to/gulsenkeskin/flutter-versiyon-dusurme-1512)
 - [React Versiyon Düşürme](https://dev.to/gulsenkeskin/react-versiyon-dusurme-54j1)
@@ -70,7 +70,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-🔮 ###Latest Youtube Videos 
+### Latest Youtube Videos 🔮
 
 <!-- YOUTUBE:START -->
 - [Bir CSS Dosyasına Farklı CSS Dosyalarını Dahil Edebilme](https://www.youtube.com/watch?v=Q_XeNXWfdOc)
