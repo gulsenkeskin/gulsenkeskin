@@ -127,11 +127,11 @@
 
 </details>
   
-## Read my latest blog 🔮
+## Read My Medium Blog 🔮
 
 <a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gulsenkeskin2/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gulsenkeskin2/0" alt="Recent Article 0">
 
-## Stay updated 🔮
+## Stay Updated 🔮
 
 
 
