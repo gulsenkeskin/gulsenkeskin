@@ -8,7 +8,7 @@
 <font color="pink">It's not a bug <em> it’s an undocumented </em> `<feature>` :crystal_ball: </font> 
   
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=100&width=435&height=25&lines=likes+racing+time+%F0%9F%92%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=3000&pause=1000&center=true&width=435&height=22&lines=Sometimes+you+just+need+to+take+life+on+step+at+a+time+%F0%9F%91%A3)](https://git.io/typing-svg)
   
   
 [![GitHub followers](https://img.shields.io/github/followers/gulsenkeskin?style=social)](https://github.com/gulsenkeskin?tab=followers)
