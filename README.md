@@ -123,14 +123,16 @@
 <summary> 🔮 Word Of The Day</summary>
 
   
-## My tweets
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gulsenkeskinn_&show_reply=false)]()  
-  
-  
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal) 
 
-</details><img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="250" height="180">
+</details>
+
+
+
+
+## My tweets
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gulsenkeskinn_&show_reply=false)]() <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="250" height="180">
 
 
 
