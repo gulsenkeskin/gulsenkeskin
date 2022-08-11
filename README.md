@@ -80,19 +80,7 @@
 - [Çok Kriterli Karar Verme Teknikleri Masaüstü Uygulaması](https://www.youtube.com/watch?v=TBvpWqhEfVU)
 - [Çok Kriterli Karar Verme: TODİM Masaüstü Uygulaması 4](https://www.youtube.com/watch?v=BXJWCzEPuWc)
 <!-- YOUTUBE:END -->
-  
-## Read my latest blog 🔮
-
-<a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gulsenkeskin2/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gulsenkeskin2/0" alt="Recent Article 0"> 
-
-## Stay updated 🔮
-
-
-
-[![github-readme-twitter](https://github-readme-twitter-gazf.vercel.app/api?id=reactjs&show_reply=false&show_retweet=false&show_border=false&layout=wide)]()[![github-readme-twitter](https://github-readme-twitter-gazf.vercel.app/api?id=FlutterDev&show_reply=false&show_retweet=false&show_border=false&layout=wide)]() <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="250" height="180">  
 <br>
-
-  
 <details>
 <summary> 🔮 Github Stats </summary>
 
@@ -138,6 +126,19 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal) 
 
 </details>
+  
+## Read my latest blog 🔮
+
+<a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gulsenkeskin2/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gulsenkeskin2/0" alt="Recent Article 0"><img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="250" height="180">  
+
+## Stay updated 🔮
+
+
+
+[![github-readme-twitter](https://github-readme-twitter-gazf.vercel.app/api?id=reactjs&show_reply=false&show_retweet=false&show_border=false&layout=wide)]()[![github-readme-twitter](https://github-readme-twitter-gazf.vercel.app/api?id=FlutterDev&show_reply=false&show_retweet=false&show_border=false&layout=wide)]()
+
+  
+
 
 
 
