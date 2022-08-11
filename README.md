@@ -89,7 +89,7 @@
 
 
 
-[![github-readme-twitter](https://github-readme-twitter-gazf.vercel.app/api?id=reactjs&show_reply=false&show_retweet=false)]()[![github-readme-twitter](https://github-readme-twitter-gazf.vercel.app/api?id=FlutterDev&show_reply=false&show_retweet=false)]() <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="250" height="180">  
+[![github-readme-twitter](https://github-readme-twitter-gazf.vercel.app/api?id=reactjs&show_reply=false&show_retweet=false&show_border=false&layout=wide)]()[![github-readme-twitter](https://github-readme-twitter-gazf.vercel.app/api?id=FlutterDev&show_reply=false&show_retweet=false&show_border=false&layout=wide)]() <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="250" height="180">  
 <br>
 
   
