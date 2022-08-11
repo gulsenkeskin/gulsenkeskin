@@ -122,6 +122,11 @@
 <details>
 <summary> 🔮 Word Of The Day</summary>
 
+  
+## My tweets
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gulsenkeskinn_&show_reply=false)]()  
+  
+  
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal) 
 
