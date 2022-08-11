@@ -81,7 +81,9 @@
 - [Çok Kriterli Karar Verme: TODİM Masaüstü Uygulaması 4](https://www.youtube.com/watch?v=BXJWCzEPuWc)
 <!-- YOUTUBE:END -->
   
+## Read my latest blog 🔮
 
+<a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gulsenkeskin2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@Ayush_B58/0" alt="Recent Article 0"> 
 
 ## Stay updated 🔮
 
