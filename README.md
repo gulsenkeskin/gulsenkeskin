@@ -83,7 +83,7 @@
   
 ## Read my latest blog 🔮
 
-<a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gulsenkeskin2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@Ayush_B58/0" alt="Recent Article 0"> 
+<a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gulsenkeskin2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gulsenkeskin2" alt="Recent Article 0"> 
 
 ## Stay updated 🔮
 
