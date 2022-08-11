@@ -129,6 +129,7 @@
 
 
 
+## Stay updated 🔮
 
 
 [![github-readme-twitter](https://github-readme-twitter-gazf.vercel.app/api?id=JavaScript)]()[![github-readme-twitter](https://github-readme-twitter-gazf.vercel.app/api?id=reactjs)]()[![github-readme-twitter](https://github-readme-twitter-gazf.vercel.app/api?id=FlutterDev)]() <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="250" height="180">
