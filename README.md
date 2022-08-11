@@ -131,7 +131,7 @@
 
 
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gulsenkeskinn_&show_reply=false)]() <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="250" height="180">
+[![github-readme-twitter](https://github-readme-twitter-gazf.vercel.app/api?id=reactjs&layout=wide)]()[![github-readme-twitter](https://github-readme-twitter-gazf.vercel.app/api?id=FlutterDev&layout=wide)]()[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gulsenkeskinn_&layout=wide)]() <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="250" height="180">
 
 
 
