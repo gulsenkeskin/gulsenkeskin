@@ -129,7 +129,7 @@
   
 ## Read my latest blog 🔮
 
-<a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gulsenkeskin2/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gulsenkeskin2/0" alt="Recent Article 0"><img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="250" height="180">  
+<a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gulsenkeskin2/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gulsenkeskin2/0" alt="Recent Article 0"><img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="125" height="90">  
 
 ## Stay updated 🔮
 
