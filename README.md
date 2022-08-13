@@ -128,7 +128,7 @@
 <summary> 🔮 Profile Trophy </summary>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gulsenkeskin&row=1&margin-w=5&theme=onedark&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=gulsenkeskin&row=1&margin-w=5&theme=onedark&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </details>
 
@@ -152,9 +152,10 @@
   
   
 <details>
+<summary> 🔮 Stay Updated </summary>
   
-[![flutter](https://github-readme-twitter-gazf.vercel.app/api?id=FlutterDev&show_reply=false&show_retweet=false&show_border=false)]() 
-[![react](https://github-readme-twitter-gazf.vercel.app/api?id=reactjs&show_reply=false&show_border=false)]()
+![flutter](https://github-readme-twitter-gazf.vercel.app/api?id=FlutterDev&show_reply=false&show_retweet=false&show_border=false)
+![react](https://github-readme-twitter-gazf.vercel.app/api?id=reactjs&show_reply=false&show_border=false)
 </details>
 
                                                 
