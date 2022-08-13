@@ -85,6 +85,13 @@
 </details>
 
 <details>
+<summary> 🔮 Read My Medium Blog</summary>
+  
+<a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gulsenkeskin2/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gulsenkeskin2/0" alt="Recent Article 0">  
+  
+</details>
+
+<details>
 <summary> 🔮 Github Stats </summary>
 
 
@@ -136,12 +143,12 @@
   
 [![flutter](https://github-readme-twitter-gazf.vercel.app/api?id=FlutterDev&show_reply=false&show_retweet=false&show_border=false)]() 
 [![react](https://github-readme-twitter-gazf.vercel.app/api?id=reactjs&show_reply=false&show_border=false)]()
-</details>
+</details><img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="180" height="140">
+
+  
 
 
-## Read My Medium Blog 🔮
-
-<a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gulsenkeskin2/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gulsenkeskin2/0" alt="Recent Article 0"> <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="180" height="140">  
+ 
 
 
 
