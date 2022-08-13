@@ -84,13 +84,14 @@
 <!-- YOUTUBE:END -->
 </details>
 
+  
 <details>
 <summary> 🔮 Read My Medium Blog </summary>
   
 <a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gulsenkeskin2/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gulsenkeskin2/0" alt="Recent Article 0">  
-  
 </details>
 
+  
 <details>
 <summary> 🔮 Github Stats </summary>
 
@@ -104,7 +105,6 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenkeskin&row=1&column=1&layout=compact" >
-
 </details>
   
   
@@ -115,6 +115,7 @@
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=gulsenkeskin&hide_border=true)
  
 </details>
+  
   
 <details>
 <summary> 🔮 Word Of The Day </summary>
@@ -127,8 +128,11 @@
   
 <details>
 <summary> 🔮 Snake </summary>
-<a><img src="https://raw.githubusercontent.com/gulsenkeskin/gulsenkeskin/dist/snake.svg"></a>
+  
+  
+<img src="https://raw.githubusercontent.com/gulsenkeskin/gulsenkeskin/dist/snake.svg">
 </details>
+  
   
 <details>
 <summary> 🔮 Profile Trophy </summary>
