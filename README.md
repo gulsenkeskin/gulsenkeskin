@@ -59,8 +59,10 @@
 [![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)
 <br/>
   
+<details>
+<summary> 🔮 Latest Blog Posts  </summary>
 
-## Latest Blog Posts 🔮
+
   
 <!-- BLOG-POST-LIST:START -->
 - [Daha Temiz Kod Yazmak İçin İpuçları](https://dev.to/gulsenkeskin/daha-temiz-kod-yazmak-icin-ipuclari-5dia)
@@ -70,12 +72,15 @@
 - [Flutter Responsive Tasarım](https://dev.to/gulsenkeskin/flutter-responsive-tasarim-1mk0)
 <!-- BLOG-POST-LIST:END -->
 
+</details>
+
   
   
 
 <details>
 <summary> 🔮 Latest Youtube Videos </summary>
 
+  
   
 <!-- YOUTUBE:START -->
 - [Bir CSS Dosyasına Farklı CSS Dosyalarını Dahil Edebilme](https://www.youtube.com/watch?v=Q_XeNXWfdOc)
@@ -136,16 +141,16 @@
 </details>
   
   
-
   
-
-
-## Stay Updated🔮 
+<details>
+<summary> 🔮 Stay Updated </summary>
   
 [![flutter](https://github-readme-twitter-gazf.vercel.app/api?id=FlutterDev&show_reply=false&show_retweet=false&show_border=false)]() 
-[![react](https://github-readme-twitter-gazf.vercel.app/api?id=reactjs&show_reply=false&show_border=false)]() <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="180" height="140">
+[![react](https://github-readme-twitter-gazf.vercel.app/api?id=reactjs&show_reply=false&show_border=false)]()
+</details>
 
                                                 
+ <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="180" height="140">
 
 [youtube]: https://www.youtube.com/channel/UCPyso_RkkrkDjWAXx51smkg
 [linkedin]: https://www.linkedin.com/in/gulsenkeskin/
