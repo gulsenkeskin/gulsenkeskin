@@ -74,6 +74,7 @@
 <details>
 <summary> 🔮 Latest Youtube Videos </summary>
 
+  
 <!-- YOUTUBE:START -->
 - [Bir CSS Dosyasına Farklı CSS Dosyalarını Dahil Edebilme](https://www.youtube.com/watch?v=Q_XeNXWfdOc)
 - [Moora Yöntemi](https://www.youtube.com/watch?v=EDIuAQYkE1c)
@@ -83,7 +84,6 @@
 <!-- YOUTUBE:END -->
 </details>
 
-<br>
 <details>
 <summary> 🔮 Github Stats </summary>
 
@@ -129,16 +129,22 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal) 
 
 </details>
+
+<details>
+<summary> 🔮 Stay Updated </summary>
+
   
+[![flutter](https://github-readme-twitter-gazf.vercel.app/api?id=FlutterDev&show_reply=false&show_retweet=false&show_border=false)]() 
+[![react](https://github-readme-twitter-gazf.vercel.app/api?id=reactjs&show_reply=false&show_border=false)]()
+</details>
+
+
 ## Read My Medium Blog 🔮
 
-<a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gulsenkeskin2/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gulsenkeskin2/0" alt="Recent Article 0">
-
-## Stay Updated 🔮
+<a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gulsenkeskin2/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gulsenkeskin2/0" alt="Recent Article 0"> <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="180" height="140">  
 
 
-[![flutter](https://github-readme-twitter-gazf.vercel.app/api?id=FlutterDev&show_reply=false&show_retweet=false&show_border=false)]() 
-[![react](https://github-readme-twitter-gazf.vercel.app/api?id=reactjs&show_reply=false&show_border=false)]() <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="180" height="140">  
+
 
   
 
