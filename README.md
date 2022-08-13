@@ -143,8 +143,6 @@
   
   
 <details>
-## 🔮 Stay Updated
-<br>
   
 [![flutter](https://github-readme-twitter-gazf.vercel.app/api?id=FlutterDev&show_reply=false&show_retweet=false&show_border=false)]() 
 [![react](https://github-readme-twitter-gazf.vercel.app/api?id=reactjs&show_reply=false&show_border=false)]()
