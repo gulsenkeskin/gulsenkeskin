@@ -65,7 +65,7 @@
 
   
 <!-- BLOG-POST-LIST:START -->
-- [Daha Temiz Kod Yazmak İçin İpuçları](https://dev.to/gulsenkeskin/daha-temiz-kod-yazmak-icin-ipuclari-5dia)
+- [Clean Code İpuçları](https://dev.to/gulsenkeskin/daha-temiz-kod-yazmak-icin-ipuclari-5dia)
 - [React Cheatsheet](https://dev.to/gulsenkeskin/react-cheatsheet-2022-317m)
 - [Flutter Versiyon Düşürme](https://dev.to/gulsenkeskin/flutter-versiyon-dusurme-1512)
 - [React Versiyon Düşürme](https://dev.to/gulsenkeskin/react-versiyon-dusurme-54j1)
