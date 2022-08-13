@@ -125,9 +125,28 @@
 
 
   
+<details>
+<summary> 🔮 Stay Updated </summary>
+
+  
+[![flutter](https://github-readme-twitter-gazf.vercel.app/api?id=FlutterDev&show_reply=false&show_retweet=false&show_border=false)]() 
+[![react](https://github-readme-twitter-gazf.vercel.app/api?id=reactjs&show_reply=false&show_border=false)]()
+</details>
+  
+<details>
+<summary> 🔮 Profile Trophy </summary>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=gulsenkeskin&row=1&margin-w=5&theme=onedark&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</details>
+  
 
 
- 
+### 🔮 Snake
+  
+<a href=#><img src="https://raw.githubusercontent.com/gulsenkeskin/gulsenkeskin/dist/snake.svg"></a> <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="180" height="140">
+
+
 
 
 
