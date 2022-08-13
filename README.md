@@ -85,7 +85,7 @@
 </details>
 
 <details>
-<summary> 🔮 Read My Medium Blog</summary>
+<summary> 🔮 Read My Medium Blog </summary>
   
 <a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gulsenkeskin2/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gulsenkeskin2/0" alt="Recent Article 0">  
   
@@ -100,7 +100,7 @@
 
 
 <details>
-<summary> 🔮 Most Used Languages</summary>
+<summary> 🔮 Most Used Languages </summary>
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenkeskin&row=1&column=1&layout=compact" >
@@ -109,20 +109,22 @@
   
   
 <details>
-<summary> 🔮 Profile Trophy</summary>
+<summary> 🔮 Profile Trophy </summary>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=gulsenkeskin&row=1&margin-w=5&theme=onedark&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
   
 </details>
 
+  
 <details>
-<summary> 🔮 GitHub Activity Graph</summary>
+<summary> 🔮 GitHub Activity Graph </summary>
   
   
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=gulsenkeskin&hide_border=true)
  
 </details>
 
+  
 <details>
 <summary> 🔮 Snake</summary>
 
@@ -136,7 +138,6 @@
 
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal) 
-
 </details>
 
 <details>
@@ -145,7 +146,9 @@
   
 [![flutter](https://github-readme-twitter-gazf.vercel.app/api?id=FlutterDev&show_reply=false&show_retweet=false&show_border=false)]() 
 [![react](https://github-readme-twitter-gazf.vercel.app/api?id=reactjs&show_reply=false&show_border=false)]()
-</details><img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="180" height="140">
+</details>
+  
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="180" height="140">
 
   
 
