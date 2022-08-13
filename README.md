@@ -127,7 +127,7 @@
   
 <details>
 <summary> 🔮 Snake </summary>
-<a href=#><img src="https://raw.githubusercontent.com/gulsenkeskin/gulsenkeskin/dist/snake.svg"></a>
+<a><img src="https://raw.githubusercontent.com/gulsenkeskin/gulsenkeskin/dist/snake.svg"></a>
 </details>
   
 <details>
