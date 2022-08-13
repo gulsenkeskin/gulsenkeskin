@@ -147,7 +147,7 @@
                                                     
 
 [youtube]: https://www.youtube.com/channel/UCPyso_RkkrkDjWAXx51smkg
-[linkedin]: https://www.linkedin.com/in/g%C3%BClsen-keskin-8a5695123/
+[linkedin]: https://www.linkedin.com/in/gulsenkeskin/
 [stackoverflow]: https://stackoverflow.com/users/14745090/g%c3%bclsen-keskin
 [dev]: https://dev.to/gulsenkeskin
 [medium]: https://medium.com/@gulsenkeskin2
