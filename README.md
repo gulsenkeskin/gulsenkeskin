@@ -118,7 +118,7 @@
 
   
 <details>
-<summary> 🔮 Snake</summary>
+<summary> 🔮 Snake </summary>
 
 
 <a href=#><img src="https://raw.githubusercontent.com/gulsenkeskin/gulsenkeskin/dist/snake.svg"></a>
@@ -126,7 +126,7 @@
   
 
 <details>
-<summary> 🔮 Word Of The Day</summary>
+<summary> 🔮 Word Of The Day </summary>
 
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal) 
