@@ -70,6 +70,8 @@
 - [Flutter Responsive Tasarım](https://dev.to/gulsenkeskin/flutter-responsive-tasarim-1mk0)
 <!-- BLOG-POST-LIST:END -->
 
+  
+  
 
 <details>
 <summary> 🔮 Latest Youtube Videos </summary>
@@ -148,19 +150,7 @@
 [![flutter](https://github-readme-twitter-gazf.vercel.app/api?id=FlutterDev&show_reply=false&show_retweet=false&show_border=false)]() 
 [![react](https://github-readme-twitter-gazf.vercel.app/api?id=reactjs&show_reply=false&show_border=false)]() <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="180" height="140">
 
-
-
-
-
-
-  
-
-
-
-
-
-
-                                                    
+                                                
 
 [youtube]: https://www.youtube.com/channel/UCPyso_RkkrkDjWAXx51smkg
 [linkedin]: https://www.linkedin.com/in/gulsenkeskin/
