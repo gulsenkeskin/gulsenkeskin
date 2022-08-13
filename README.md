@@ -143,7 +143,7 @@
   
   
 <details>
-<summary>  </summary>
+## 🔮 Stay Updated
 <br>
   
 [![flutter](https://github-readme-twitter-gazf.vercel.app/api?id=FlutterDev&show_reply=false&show_retweet=false&show_border=false)]() 
