@@ -115,16 +115,7 @@
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=gulsenkeskin&hide_border=true)
  
 </details>
-
   
-<details>
-<summary> 🔮 Snake </summary>
-
-
-<a href=#><img src="https://raw.githubusercontent.com/gulsenkeskin/gulsenkeskin/dist/snake.svg"></a>
-</details>
-  
-
 <details>
 <summary> 🔮 Word Of The Day </summary>
 
