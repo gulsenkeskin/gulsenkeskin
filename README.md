@@ -126,9 +126,8 @@
 
   
 <details>
-<summary> 🔮 Stay Updated </summary>
-[![flutter](https://github-readme-twitter-gazf.vercel.app/api?id=FlutterDev&show_reply=false&show_retweet=false&show_border=false)]() 
-[![react](https://github-readme-twitter-gazf.vercel.app/api?id=reactjs&show_reply=false&show_border=false)]()
+<summary> 🔮 Snake </summary>
+<a href=#><img src="https://raw.githubusercontent.com/gulsenkeskin/gulsenkeskin/dist/snake.svg"></a>
 </details>
   
 <details>
@@ -140,9 +139,10 @@
   
 
 
-### 🔮 Snake
+### 🔮 Stay Updated
   
-<a href=#><img src="https://raw.githubusercontent.com/gulsenkeskin/gulsenkeskin/dist/snake.svg"></a> <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="180" height="140">
+[![flutter](https://github-readme-twitter-gazf.vercel.app/api?id=FlutterDev&show_reply=false&show_retweet=false&show_border=false)]() 
+[![react](https://github-readme-twitter-gazf.vercel.app/api?id=reactjs&show_reply=false&show_border=false)]() <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="180" height="140">
 
 
 
