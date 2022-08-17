@@ -1,9 +1,4 @@
 <img src="https://media4.giphy.com/media/F3LJZ4I0JxoZi/giphy.gif?cid=ecf05e477bfj4ukzo12k2lsmsgbx1l2h8hb98sxmizwfrgm7&rid=giphy.gif&ct=g" align="right" width="410" height="300">
-  
-[![GitHub followers](https://img.shields.io/github/followers/gulsenkeskin?style=social)](https://github.com/gulsenkeskin?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/gulsenkeskin?style=social)
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fgulsenkeskin.gulsenkeskin%2Freadme)
-<br>
 
 ### Connect With Me :octocat:
 
