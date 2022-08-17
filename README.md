@@ -1,5 +1,4 @@
 <img src="https://media4.giphy.com/media/F3LJZ4I0JxoZi/giphy.gif?cid=ecf05e477bfj4ukzo12k2lsmsgbx1l2h8hb98sxmizwfrgm7&rid=giphy.gif&ct=g" align="right" width="410" height="300">
-
 ### Connect With Me :octocat:
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" align="left" />][youtube]
@@ -45,7 +44,6 @@
 
 ## Latest Blog Posts 
 
-  
 <!-- BLOG-POST-LIST:START -->
 - [Clean Code İpuçları](https://dev.to/gulsenkeskin/daha-temiz-kod-yazmak-icin-ipuclari-5dia)
 - [React Cheatsheet](https://dev.to/gulsenkeskin/react-cheatsheet-2022-317m)
@@ -53,8 +51,6 @@
 - [React Versiyon Düşürme](https://dev.to/gulsenkeskin/react-versiyon-dusurme-54j1)
 - [Flutter Responsive Tasarım](https://dev.to/gulsenkeskin/flutter-responsive-tasarim-1mk0)
 <!-- BLOG-POST-LIST:END -->
-
-
 
 ##  Most Used Languages
 
