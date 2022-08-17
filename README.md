@@ -1,15 +1,4 @@
 <img src="https://media4.giphy.com/media/F3LJZ4I0JxoZi/giphy.gif?cid=ecf05e477bfj4ukzo12k2lsmsgbx1l2h8hb98sxmizwfrgm7&rid=giphy.gif&ct=g" align="right" width="410" height="300">
-
-<img src="https://media1.giphy.com/media/ZbftmEwht0nDkl6XFX/giphy.gif?cid=ecf05e47l19lzmqnuv3o320i63xy3da13bsxhp10w9z9wm8s&rid=giphy.gif&ct=s" width="45" height="25"> <img src="https://media2.giphy.com/media/3JTwfEEdDlpyh6M0o2/giphy.gif?cid=790b7611e9c9e8bc9ce40170c9368926692fdb648405ee7c&rid=giphy.gif&ct=s" width="45" height="25"> <img src="https://media0.giphy.com/media/2oO1ZKeNbqOfdZq3Xg/giphy.gif?cid=790b7611ba913d63c2062a9ed006330a9e0b3b82405ca556&rid=giphy.gif&ct=s" width="40" height="25"> <img src="https://media4.giphy.com/media/Jfcb1m7szdya4/giphy.gif?cid=790b7611ba301e9e5a458343e47a2e69f896f8a65b16c282&rid=giphy.gif&ct=s" width="45" height="25">
-<img src="https://media3.giphy.com/media/TpNTATTp5c2Ri/giphy.gif?cid=790b7611a9ccd55e6b764aacf4c7a277dc6c1d020f1e187e&rid=giphy.gif&ct=s" width="45" height="25">
-<img src="https://media0.giphy.com/media/5eFFhJ3yrAIndRQeFx/giphy.gif?cid=790b761159865a018304701e37e468edc07abbeca1073a30&rid=giphy.gif&ct=s" width="35" height="25"> 
-<br>
-<br>
-<font color="pink">It's not a bug <em> it’s an undocumented </em> `<feature>` :crystal_ball: </font> 
-  
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=100&width=435&height=25&lines=likes+racing+time+%F0%9F%92%99)](https://git.io/typing-svg)
-  
   
 [![GitHub followers](https://img.shields.io/github/followers/gulsenkeskin?style=social)](https://github.com/gulsenkeskin?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/gulsenkeskin?style=social)
@@ -59,9 +48,9 @@
 [![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)
 <br/>
   
-<details>
-<summary> 🔮 Latest Blog Posts  </summary>
 
+
+### Latest Blog Posts 
 
   
 <!-- BLOG-POST-LIST:START -->
@@ -72,40 +61,6 @@
 - [Flutter Responsive Tasarım](https://dev.to/gulsenkeskin/flutter-responsive-tasarim-1mk0)
 <!-- BLOG-POST-LIST:END -->
 
-</details>
-
-  
-  
-
-<details>
-<summary> 🔮 Latest Youtube Videos </summary>
-
-  
-  
-<!-- YOUTUBE:START -->
-- [Bir CSS Dosyasına Farklı CSS Dosyalarını Dahil Edebilme](https://www.youtube.com/watch?v=Q_XeNXWfdOc)
-- [Moora Yöntemi](https://www.youtube.com/watch?v=EDIuAQYkE1c)
-- [TODIM &lpar;Tomada de Decisao Interativa Multicriterio&rpar; method desktop application](https://www.youtube.com/watch?v=bHQoHSQNxPs)
-- [Çok Kriterli Karar Verme Teknikleri Masaüstü Uygulaması](https://www.youtube.com/watch?v=TBvpWqhEfVU)
-- [Çok Kriterli Karar Verme: TODİM Masaüstü Uygulaması 4](https://www.youtube.com/watch?v=BXJWCzEPuWc)
-<!-- YOUTUBE:END -->
-</details>
-
-  
-<details>
-<summary> 🔮 Read My Medium Blog </summary>
-  
-<a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gulsenkeskin2/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gulsenkeskin2/0" alt="Recent Article 0"></a>  
-</details>
-
-  
-<details>
-<summary> 🔮 Github Stats </summary>
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=gulsenkeskin&show_icons=true"></img>
-</details>
-
 
 <details>
 <summary> 🔮 Most Used Languages </summary>
@@ -114,16 +69,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenkeskin&row=1&column=1&layout=compact" >
 </details>
   
-  
-<details>
-<summary> 🔮 GitHub Activity Graph </summary>
-  
-  
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=gulsenkeskin&hide_border=true)
- 
-</details>
-
-
 <details>
 <summary> 🔮 Profile Trophy </summary>
 
@@ -132,34 +77,7 @@
 
 </details>
 
-  
-<details>
-<summary> 🔮 Word Of The Day </summary>
-
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal) 
-</details>
-
-
-  
-<details>
-<summary> 🔮 Snake </summary>
-  
-  
-<img src="https://raw.githubusercontent.com/gulsenkeskin/gulsenkeskin/dist/snake.svg">
-</details>
-  
-  
-  
-<details>
-<summary> 🔮 Stay Updated </summary>
-  
-![flutter](https://github-readme-twitter-gazf.vercel.app/api?id=FlutterDev&show_reply=false&show_retweet=false&show_border=false)
-![react](https://github-readme-twitter-gazf.vercel.app/api?id=reactjs&show_reply=false&show_border=false)
-</details>
-
-                                                
-<img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="180" height="140"> <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="180" height="140"> <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="180" height="140"> <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="180" height="140">
+<img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="180" height="140">
 
 
 [youtube]: https://www.youtube.com/channel/UCPyso_RkkrkDjWAXx51smkg
