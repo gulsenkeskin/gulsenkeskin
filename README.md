@@ -12,6 +12,9 @@
 <br>
 <br>
 
+<br/>
+<br/>
+<br/>
 ### Languages and Tools	
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="27" height="27" />
@@ -52,9 +55,6 @@
 </details>
 
 
-<br/>
-<br/>
-<br/>
 
 ### Spotify Playing :violin: :notes:
 [![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)
