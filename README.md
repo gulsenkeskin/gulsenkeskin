@@ -39,7 +39,7 @@
 
 ### Connect With Me :octocat:
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" align="left" />][youtube]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" align="left" />][youtube]  [![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)  
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/stackoverflow.svg" align="left" />][stackoverflow]
 [<img  width="22" src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" align="left" />][dev]
