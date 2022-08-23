@@ -26,7 +26,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=gulsenkeskin&show_icons=true" height="150"></img><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenkeskin&row=1&column=1&layout=compact" height="150"></img>
   
 
-### Latest Blog Posts 
+### Latest Blog Posts [![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)  
   
 <!-- BLOG-POST-LIST:START -->
 - [Clean Code İpuçları](https://dev.to/gulsenkeskin/daha-temiz-kod-yazmak-icin-ipuclari-5dia)
@@ -39,7 +39,7 @@
 
 ### Connect With Me :octocat:
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" align="left" />][youtube]  [![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)  
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" align="left" />][youtube]  
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/stackoverflow.svg" align="left" />][stackoverflow]
 [<img  width="22" src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" align="left" />][dev]
