@@ -23,7 +23,7 @@
 <br/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=gulsenkeskin&show_icons=true" height="150"></img><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenkeskin&row=1&column=1&layout=compact" height="150"></img> 
+<img src="https://github-readme-stats.vercel.app/api?username=gulsenkeskin&show_icons=true" height="150" width="50%" ></img><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenkeskin&row=1&column=1&layout=compact" height="150"  width="50%"></img> 
 <br>
 
 ### Connect With Me :octocat:
