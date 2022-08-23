@@ -1,3 +1,18 @@
+### Connect With Me :octocat:
+
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" align="left" />][youtube]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/stackoverflow.svg" align="left" />][stackoverflow]
+[<img  width="22" src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" align="left" />][dev]
+[<img  width="22" src="https://miro.medium.com/fit/c/56/56/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" align="left" />][medium]
+<a href="https://www.buymeacoffee.com/gulsen">
+  <img align="left" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" />
+</a>
+[<img  width="27" src="https://www.iconpacks.net/icons/2/free-behance-icon-2161-thumb.png" align="left" />][behance]
+
+<br>
+<br>
+
 ### Languages and Tools	
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="27" height="27" />
@@ -26,20 +41,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=gulsenkeskin&show_icons=true" height="150"  ></img><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenkeskin&row=1&column=1&layout=compact" height="150" ></img> 
 <br>
 
-### Connect With Me :octocat:
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" align="left" />][youtube]
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/stackoverflow.svg" align="left" />][stackoverflow]
-[<img  width="22" src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" align="left" />][dev]
-[<img  width="22" src="https://miro.medium.com/fit/c/56/56/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" align="left" />][medium]
-<a href="https://www.buymeacoffee.com/gulsen">
-  <img align="left" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" />
-</a>
-[<img  width="27" src="https://www.iconpacks.net/icons/2/free-behance-icon-2161-thumb.png" align="left" />][behance]
-
-<br>
-<br>
 
 [![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf) 
 
