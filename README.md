@@ -1,6 +1,5 @@
 ### Languages and Tools	
 
-
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="27" height="27" />
 <img align="left" src="https://dartpad.dev/dart-192.png" width="27" height="27"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="27" height="27" />
@@ -29,7 +28,6 @@
 
 ### Latest Blog Posts 
 
-  
 <!-- BLOG-POST-LIST:START -->
 - [Clean Code İpuçları](https://dev.to/gulsenkeskin/daha-temiz-kod-yazmak-icin-ipuclari-5dia)
 - [React Cheatsheet](https://dev.to/gulsenkeskin/react-cheatsheet-2022-317m)
@@ -37,8 +35,6 @@
 - [React Versiyon Düşürme](https://dev.to/gulsenkeskin/react-versiyon-dusurme-54j1)
 - [Flutter Responsive Tasarım](https://dev.to/gulsenkeskin/flutter-responsive-tasarim-1mk0)
 <!-- BLOG-POST-LIST:END -->
-
-<br>
 
 ### Connect With Me :octocat:
 
@@ -51,9 +47,6 @@
   <img align="left" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" />
 </a>
 [<img  width="27" src="https://www.iconpacks.net/icons/2/free-behance-icon-2161-thumb.png" align="left" />][behance]
-<br>
-<br>
-
 
 [![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf) 
 
