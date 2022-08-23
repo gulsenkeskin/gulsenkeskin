@@ -1,5 +1,4 @@
 ### Languages and Tools	
-<br>
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="27" height="27" />
 <img align="left" src="https://dartpad.dev/dart-192.png" width="27" height="27"/>
@@ -26,9 +25,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=gulsenkeskin&show_icons=true" height="150"></img><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenkeskin&row=1&column=1&layout=compact" height="150"></img>
   
+<br>
 
 ### Latest Blog Posts 
-<br>
 
   
 <!-- BLOG-POST-LIST:START -->
@@ -39,9 +38,9 @@
 - [Flutter Responsive Tasarım](https://dev.to/gulsenkeskin/flutter-responsive-tasarim-1mk0)
 <!-- BLOG-POST-LIST:END -->
 
+<br>
 
 ### Connect With Me :octocat:
-<br>
 
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" align="left" />][youtube]
