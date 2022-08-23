@@ -25,10 +25,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=gulsenkeskin&show_icons=true" height="150"></img><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenkeskin&row=1&column=1&layout=compact" height="150"></img>
   
-<details>
-<summary> 🔮 Latest Blog Posts  </summary>
-<br>
 
+## Latest Blog Posts 
   
 <!-- BLOG-POST-LIST:START -->
 - [Clean Code İpuçları](https://dev.to/gulsenkeskin/daha-temiz-kod-yazmak-icin-ipuclari-5dia)
@@ -38,12 +36,6 @@
 - [Flutter Responsive Tasarım](https://dev.to/gulsenkeskin/flutter-responsive-tasarim-1mk0)
 <!-- BLOG-POST-LIST:END -->
 
-</details>
-
-
- 
-### Spotify Playing :violin: :notes:
-[![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)  
 
 ### Connect With Me :octocat:
 
