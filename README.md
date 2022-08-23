@@ -39,8 +39,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 <br>
-### Connect With Me :octocat:
 
+### Connect With Me :octocat:
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" align="left" />][youtube]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
