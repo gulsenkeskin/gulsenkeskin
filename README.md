@@ -26,16 +26,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=gulsenkeskin&show_icons=true" height="150"></img><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenkeskin&row=1&column=1&layout=compact" height="150"></img> 
 <br>
 
-### Latest Blog Posts 
-
-<!-- BLOG-POST-LIST:START -->
-- [Clean Code İpuçları](https://dev.to/gulsenkeskin/daha-temiz-kod-yazmak-icin-ipuclari-5dia)
-- [React Cheatsheet](https://dev.to/gulsenkeskin/react-cheatsheet-2022-317m)
-- [Flutter Versiyon Düşürme](https://dev.to/gulsenkeskin/flutter-versiyon-dusurme-1512)
-- [React Versiyon Düşürme](https://dev.to/gulsenkeskin/react-versiyon-dusurme-54j1)
-- [Flutter Responsive Tasarım](https://dev.to/gulsenkeskin/flutter-responsive-tasarim-1mk0)
-<!-- BLOG-POST-LIST:END -->
-
 ### Connect With Me :octocat:
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" align="left" />][youtube]
