@@ -51,7 +51,7 @@
 
  
 ### Spotify Playing :violin: :notes:
-[![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify&background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)  
+[![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify&background_color=0d1117)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)  
 
 
 
