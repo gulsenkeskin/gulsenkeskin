@@ -52,11 +52,14 @@
 [![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)  
 
 
-
 ### Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Clean Code İpuçları](https://dev.to/gulsenkeskin/daha-temiz-kod-yazmak-icin-ipuclari-5dia)
+- [React Cheatsheet](https://dev.to/gulsenkeskin/react-cheatsheet-2022-317m)
+- [Flutter Versiyon Düşürme](https://dev.to/gulsenkeskin/flutter-versiyon-dusurme-1512)
+- [React Versiyon Düşürme](https://dev.to/gulsenkeskin/react-versiyon-dusurme-54j1)
+- [Flutter Responsive Tasarım](https://dev.to/gulsenkeskin/flutter-responsive-tasarim-1mk0)
 <!-- BLOG-POST-LIST:END -->
 
 
