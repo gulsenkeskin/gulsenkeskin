@@ -55,11 +55,11 @@
 ### Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean Code İpuçları](https://dev.to/gulsenkeskin/daha-temiz-kod-yazmak-icin-ipuclari-5dia)
-- [React Cheatsheet](https://dev.to/gulsenkeskin/react-cheatsheet-2022-317m)
-- [Flutter Versiyon Düşürme](https://dev.to/gulsenkeskin/flutter-versiyon-dusurme-1512)
-- [React Versiyon Düşürme](https://dev.to/gulsenkeskin/react-versiyon-dusurme-54j1)
-- [Flutter Responsive Tasarım](https://dev.to/gulsenkeskin/flutter-responsive-tasarim-1mk0)
+- [Dart&#39;ta const ve final ifadeleri arasındaki fark nedir?](https://dev.to/gulsenkeskin/flutterda-const-ve-final-ifadeleri-arasindaki-fark-nedir-46dd)
+- [Flutter WidgetsBindingObserver](https://dev.to/gulsenkeskin/flutter-widgetsbindingobserver-58of)
+- [Flutter RepaintBoundary](https://dev.to/gulsenkeskin/flutter-repaintboundary-1ijn)
+- [ChatGPT&#39;ye Göre Flutter&#39;da Uygulama Performansını Arttırmayı Sağlayan 30 Madde](https://dev.to/gulsenkeskin/flutterda-uygulamanizin-performansini-arttirmak-icin-bilmeniz-gereken-30-sey-35e3)
+- [Flutter Mixin Class](https://dev.to/gulsenkeskin/flutter-mixin-class-564i)
 <!-- BLOG-POST-LIST:END -->
 
 
