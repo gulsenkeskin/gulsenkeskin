@@ -57,7 +57,12 @@
 - [ChatGPT&#39;ye Göre Flutter&#39;da Uygulama Performansını Arttırmayı Sağlayan 30 Madde](https://dev.to/gulsenkeskin/flutterda-uygulamanizin-performansini-arttirmak-icin-bilmeniz-gereken-30-sey-35e3)
 <!-- BLOG-POST-LIST:END -->
 
-
+<div >
+  <a href="https://github.com/gulsenkeskin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gulsenkeskin&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenkeskin&row=1&column=1&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
+ 
 [youtube]: https://www.youtube.com/channel/UCPyso_RkkrkDjWAXx51smkg
 [linkedin]: https://www.linkedin.com/in/gulsenkeskin/
 [stackoverflow]: https://stackoverflow.com/users/14745090/g%c3%bclsen-keskin
