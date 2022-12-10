@@ -50,11 +50,11 @@
 ### Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Dart Flutter Quiz](https://dev.to/gulsenkeskin/dart-flutter-quiz-5570)
 - [Flutter Kanalları](https://dev.to/gulsenkeskin/flutter-kanallari-4dke)
 - [Dart&#39;ta const ve final ifadeleri arasındaki fark nedir?](https://dev.to/gulsenkeskin/flutterda-const-ve-final-ifadeleri-arasindaki-fark-nedir-46dd)
 - [Flutter WidgetsBindingObserver](https://dev.to/gulsenkeskin/flutter-widgetsbindingobserver-58of)
 - [Flutter RepaintBoundary](https://dev.to/gulsenkeskin/flutter-repaintboundary-1ijn)
-- [ChatGPT&#39;ye Göre Flutter&#39;da Uygulama Performansını Arttırmayı Sağlayan 30 Madde](https://dev.to/gulsenkeskin/flutterda-uygulamanizin-performansini-arttirmak-icin-bilmeniz-gereken-30-sey-35e3)
 <!-- BLOG-POST-LIST:END -->
 
 <div >
