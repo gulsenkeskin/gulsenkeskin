@@ -50,11 +50,11 @@
 ### Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Android Studio Plugin for Flutter Development](https://dev.to/gulsenkeskin/top-10-android-studio-plugin-for-flutter-development-edp)
 - [Flutter Performance Best Practices](https://dev.to/gulsenkeskin/flutter-performance-best-practices-27dd)
 - [Dart Flutter Quiz](https://dev.to/gulsenkeskin/dart-flutter-quiz-5570)
 - [Flutter Kanalları](https://dev.to/gulsenkeskin/flutter-kanallari-4dke)
 - [Dart&#39;ta const ve final ifadeleri arasındaki fark nedir?](https://dev.to/gulsenkeskin/flutterda-const-ve-final-ifadeleri-arasindaki-fark-nedir-46dd)
-- [Flutter WidgetsBindingObserver](https://dev.to/gulsenkeskin/flutter-widgetsbindingobserver-58of)
 <!-- BLOG-POST-LIST:END -->
 
 <div >
