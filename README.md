@@ -50,11 +50,11 @@
 ### Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter &quot;Farkları Ne? 😕&quot; Serisi](https://dev.to/gulsenkeskin/flutter-farki-ne-serisi-5fd7)
 - [Dart and Flutter Test Cheat Sheet](https://dev.to/gulsenkeskin/dart-and-flutter-test-cheat-sheet-l3l)
 - [Top 10 Android Studio Plugin for Flutter Development](https://dev.to/gulsenkeskin/top-10-android-studio-plugin-for-flutter-development-edp)
 - [Flutter Performance Best Practices](https://dev.to/gulsenkeskin/flutter-performance-best-practices-27dd)
 - [Dart Flutter Quiz](https://dev.to/gulsenkeskin/dart-flutter-quiz-5570)
-- [Flutter Kanalları](https://dev.to/gulsenkeskin/flutter-kanallari-4dke)
 <!-- BLOG-POST-LIST:END -->
 
 <div >
