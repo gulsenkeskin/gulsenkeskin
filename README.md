@@ -50,11 +50,11 @@
 ### Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Uygulamasında Kotlin Versiyonunu Güncelleme](https://dev.to/gulsenkeskin/flutter-uygulamasinda-kotlin-versiyonunu-guncelleme-jml)
 - [Codemagic CLI araçlarıyla build arşiv oluşturma](https://dev.to/gulsenkeskin/codemagic-cli-araclariyla-build-arsiv-olusturma-20a4)
 - [Flutter &quot;Farkları Ne? 😕&quot; Serisi](https://dev.to/gulsenkeskin/flutter-farki-ne-serisi-5fd7)
 - [Dart and Flutter Test Cheat Sheet](https://dev.to/gulsenkeskin/dart-and-flutter-test-cheat-sheet-l3l)
 - [Top 10 Android Studio Plugin for Flutter Development](https://dev.to/gulsenkeskin/top-10-android-studio-plugin-for-flutter-development-edp)
-- [Flutter Performance Best Practices](https://dev.to/gulsenkeskin/flutter-performance-best-practices-27dd)
 <!-- BLOG-POST-LIST:END -->
 
 <div >
