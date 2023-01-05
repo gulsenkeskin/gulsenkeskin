@@ -50,11 +50,11 @@
 ### Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Dart Abstract and Factory Keywords](https://dev.to/gulsenkeskin/dart-abstract-and-factory-keywords-oie)
+- [Dart Assert Keyword](https://dev.to/gulsenkeskin/dart-assert-keyword-20ha)
+- [Dart Asenkron Programlama](https://dev.to/gulsenkeskin/dart-asenkron-programlama-2c03)
 - [Dart as, is, is! operatörleri](https://dev.to/gulsenkeskin/dart-as-is-is-operatorleri-4fmm)
 - [Bir kitaplığın yalnızca bir bölümünü içe aktarma](https://dev.to/gulsenkeskin/bir-kitapligin-yalnizca-bir-bolumunu-ice-aktarma-3h1l)
-- [Flutter Uygulamasında Kotlin Versiyonunu Güncelleme](https://dev.to/gulsenkeskin/flutter-uygulamasinda-kotlin-versiyonunu-guncelleme-jml)
-- [Codemagic CLI araçlarıyla build arşiv oluşturma](https://dev.to/gulsenkeskin/codemagic-cli-araclariyla-build-arsiv-olusturma-20a4)
-- [Flutter &quot;Farkları Ne? 😕&quot; Serisi](https://dev.to/gulsenkeskin/flutter-farki-ne-serisi-5fd7)
 <!-- BLOG-POST-LIST:END -->
 
 <div >
