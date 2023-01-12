@@ -50,7 +50,7 @@
 ### Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
-- [API LINKS](https://dev.to/gulsenkeskin/api-links-3a12)
+- [API Links](https://dev.to/gulsenkeskin/api-links-3a12)
 - [Dart Abstract and Factory Keywords](https://dev.to/gulsenkeskin/dart-abstract-and-factory-keywords-oie)
 - [Dart Assert Keyword](https://dev.to/gulsenkeskin/dart-assert-keyword-20ha)
 - [Dart Asenkron Programlama](https://dev.to/gulsenkeskin/dart-asenkron-programlama-2c03)
