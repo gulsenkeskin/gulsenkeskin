@@ -70,5 +70,5 @@
 [dev]: https://dev.to/gulsenkeskin
 [medium]: https://medium.com/@gulsenkeskin2
 [behance]: https://www.behance.net/glsenkeskin/moodboards
-
+[leetcode]: https://leetcode.com/gulsenkeskin/
 
