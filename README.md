@@ -5,7 +5,7 @@
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/stackoverflow.svg" align="left" />][stackoverflow]
 [<img  width="22" src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" align="left" />][dev]
 [<img  width="22" src="https://miro.medium.com/fit/c/56/56/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" align="left" />][medium]
-![image](https://user-images.githubusercontent.com/63197899/212006802-9d16aca7-f450-4dfe-91d3-fbc266d82c55.png)[leetcode]
+[<img  width="22" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" align="left" />][leetcode]
 
 <br>
 <br>
