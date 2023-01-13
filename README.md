@@ -50,11 +50,11 @@
 ### Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Gradle to update dependencies command](https://dev.to/gulsenkeskin/gradle-to-update-dependencies-command-5151)
 - [API Links](https://dev.to/gulsenkeskin/api-links-3a12)
 - [Dart Abstract and Factory Keywords](https://dev.to/gulsenkeskin/dart-abstract-and-factory-keywords-oie)
 - [Dart Assert Keyword](https://dev.to/gulsenkeskin/dart-assert-keyword-20ha)
 - [Dart Asenkron Programlama](https://dev.to/gulsenkeskin/dart-asenkron-programlama-2c03)
-- [Dart as, is, is! operatörleri](https://dev.to/gulsenkeskin/dart-as-is-is-operatorleri-4fmm)
 <!-- BLOG-POST-LIST:END -->
 
 
