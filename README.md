@@ -50,11 +50,11 @@
 ### Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Dart ??= Operatörü](https://dev.to/gulsenkeskin/dart-operatoru-4gah)
 - [Mounted check in a stateless widget](https://dev.to/gulsenkeskin/mounted-check-in-a-stateless-widget-356o)
 - [Gradle to update dependencies command](https://dev.to/gulsenkeskin/gradle-to-update-dependencies-command-5151)
 - [API Links](https://dev.to/gulsenkeskin/api-links-3a12)
 - [Dart Abstract and Factory Keywords](https://dev.to/gulsenkeskin/dart-abstract-and-factory-keywords-oie)
-- [Dart Assert Keyword](https://dev.to/gulsenkeskin/dart-assert-keyword-20ha)
 <!-- BLOG-POST-LIST:END -->
 
 
