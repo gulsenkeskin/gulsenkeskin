@@ -84,10 +84,15 @@
       <td><b><a href="https://www.harmonq.com/">Web Development</a> </b></td>
       <td>
        - Front-end development with React.js.
+       <br>
        - Writing integration tests with Selenium.
+       <br>
        - API development using .net core and microservice architecture.
+       <br>
        - Email sending with Apache kafka.
+       <br>
        - Virtual POS integration.</td>
+       <br>
       <td>January 2021 - February 2022</td>
     </tr>
   </tbody>
