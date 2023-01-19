@@ -86,7 +86,6 @@
 </a> <a href="https://play.google.com/store/apps/details?id=com.kurumsalyazilim.harmonq"><img src="https://www.freepnglogos.com/uploads/google-play-png-logo/google-play-arrow-png-logo-8.png" width="11" height="13"/>
 </a> 
       <br>
-      <br>
     <a href="https://play.google.com/store/apps/details?id=com.kurumsalyazilim.ikmobile"><img src="https://www.freepnglogos.com/uploads/google-play-png-logo/google-play-arrow-png-logo-8.png" width="11" height="13"/>
 </a> 
       <br>
