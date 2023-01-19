@@ -78,10 +78,6 @@
        <br>
        - Backend development with .Net Core 6 and Dapper
        <br>
-       harmonq: [apple]( https://apps.apple.com/tr/app/harmonq/id1620888561)
-       [<img  width="22" height="22" src="https://bhagyodayabank.com/wp-content/uploads/2020/01/google-play-store-logo-png-transparent-png-logos-10.png" />][harmonqplaystore]
-       <br>
-       [<img  width="22" height="22" src="https://bhagyodayabank.com/wp-content/uploads/2020/01/google-play-store-logo-png-transparent-png-logos-10.png" />][kasplaystore]
       </td>
       <td>February 2022 - Present</td>
     </tr>
