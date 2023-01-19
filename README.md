@@ -72,16 +72,17 @@
     <tr>
       <td><b><a href="https://www.harmonq.com/">Mobile and Backend Development</a> </b></td>
       <td>
-        <tr>Mobile app development with Flutter.</tr>
-        <tr>Integration test with the robot pattern.</tr>
-        <tr>Backend development with .Net Core 6 and Dapper</tr>
+       - Mobile app development with Flutter.
+       <br>
+       - Integration test with the robot pattern.
+       <br>
+       - Backend development with .Net Core 6 and Dapper
       </td>
       <td>February 2022 - Present</td>
     </tr>
     <tr>
       <td><b><a href="https://www.harmonq.com/">Web Development</a> </b></td>
       <td>
-
        - Front-end development with React.js.
        - Writing integration tests with Selenium.
        - API development using .net core and microservice architecture.
