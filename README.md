@@ -99,7 +99,7 @@
       <td>
        - Frontend development with React.js.
        <br>
-       - Writing integration tests with Selenium.
+       - Integration tests with Selenium.
        <br>
        - API development using .net core and microservice architecture.
        <br>
