@@ -97,7 +97,7 @@
     <tr>
       <td><b><a href="https://www.harmonq.com/">Web Development</a> </b></td>
       <td>
-       - Front-end development with React.js.
+       - Frontend development with React.js.
        <br>
        - Writing integration tests with Selenium.
        <br>
