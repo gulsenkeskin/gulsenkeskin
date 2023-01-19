@@ -86,6 +86,7 @@
 </a> <a href="https://play.google.com/store/apps/details?id=com.kurumsalyazilim.harmonq"><img align="left" src="https://www.freepnglogos.com/uploads/google-play-png-logo/google-play-arrow-png-logo-8.png" width="18" height="22"/>
 </a> 
       <br>
+      <br>
       kas ik: <a href="https://play.google.com/store/apps/details?id=com.kurumsalyazilim.ikmobile"><img align="left" src="https://www.freepnglogos.com/uploads/google-play-png-logo/google-play-arrow-png-logo-8.png" width="18" height="22"/>
 </a> 
       <br>
