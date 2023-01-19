@@ -82,13 +82,12 @@
       </td>
       <td>February 2022 - Present</td>
      <td>
-      <b><a href="https://apps.apple.com/tr/app/harmonq/id1620888561">harmonq apple</a> </b>
+      <a href="https://apps.apple.com/tr/app/harmonq/id1620888561">harmonq apple</a> 
       <br>
-      <b><a href="https://play.google.com/store/apps/details?id=com.kurumsalyazilim.harmonq">harmonq play store</a> </b>
+      <a href="https://play.google.com/store/apps/details?id=com.kurumsalyazilim.harmonq">harmonq play store</a>
       <br>
-      <b><a href="https://play.google.com/store/apps/details?id=com.kurumsalyazilim.ikmobile">kas ik play store</a> </b>
+      <a href="https://play.google.com/store/apps/details?id=com.kurumsalyazilim.ikmobile">kas ik play store</a>
       <br>
-      
      </td>
     </tr>
     <tr>
@@ -105,7 +104,7 @@
        - Virtual POS integration.</td>
        <br>
       <td>January 2021 - February 2022</td>
-      <td><b><a href="https://www.harmonq.com/">harmonq</a> </b></td>
+      <td><a href="https://www.harmonq.com/">harmonq</a></td>
     </tr>
   </tbody>
 </table>
