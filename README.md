@@ -66,7 +66,9 @@
       <th>Job Name</th>
       <th>Roles & responsibilities</th>
       <th>Duration</th>
+      <!---
       <th>Product</th>
+      -->
     </tr>
   </thead>
   <tbody>
@@ -81,6 +83,7 @@
        <br>
       </td>
       <td>February 2022 - Present</td>
+     <!---
      <td>
  <a href="https://apps.apple.com/tr/app/harmonq/id1620888561"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/1667px-Apple_logo_black.svg.png" width="13" height="15"/>
 </a> <a href="https://play.google.com/store/apps/details?id=com.kurumsalyazilim.harmonq"><img src="https://www.freepnglogos.com/uploads/google-play-png-logo/google-play-arrow-png-logo-8.png" width="11" height="13"/>
@@ -88,8 +91,8 @@
       <br>
     <a href="https://play.google.com/store/apps/details?id=com.kurumsalyazilim.ikmobile"><img src="https://www.freepnglogos.com/uploads/google-play-png-logo/google-play-arrow-png-logo-8.png" width="11" height="13"/>
 </a> 
-      <br>
      </td>
+     -->
     </tr>
     <tr>
       <td><b><a href="https://www.harmonq.com/">Web Development</a> </b></td>
@@ -105,7 +108,9 @@
        - Virtual POS integration.</td>
        <br>
       <td>January 2021 - February 2022</td>
+      <!---
       <td><a href="https://www.harmonq.com/">harmonq</a></td>
+      -->
     </tr>
   </tbody>
 </table>
