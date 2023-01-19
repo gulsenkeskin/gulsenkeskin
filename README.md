@@ -78,11 +78,9 @@
        <br>
        - Backend development with .Net Core 6 and Dapper
        <br>
-       harmonq [<img  width="22" height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/732px-Apple_logo_black.svg.png" />][harmonqApple][<img  width="22" height="22" src="https://bhagyodayabank.com/wp-content/uploads/2020/01/google-play-store-logo-png-transparent-png-logos-10.png" />][harmonqPlayStore]
+       [<img  width="22" height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/732px-Apple_logo_black.svg.png" />][harmonqApple][<img  width="22" height="22" src="https://bhagyodayabank.com/wp-content/uploads/2020/01/google-play-store-logo-png-transparent-png-logos-10.png" />][harmonqPlayStore]
        <br>
-       kas ik [<img  width="22" height="22" src="https://bhagyodayabank.com/wp-content/uploads/2020/01/google-play-store-logo-png-transparent-png-logos-10.png" />][kasPlayStore]
-
-
+       [<img  width="22" height="22" src="https://bhagyodayabank.com/wp-content/uploads/2020/01/google-play-store-logo-png-transparent-png-logos-10.png" />][kasPlayStore]
       </td>
       <td>February 2022 - Present</td>
     </tr>
