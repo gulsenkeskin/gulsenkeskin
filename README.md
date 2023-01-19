@@ -66,6 +66,7 @@
       <th>Job Name</th>
       <th>Roles & responsibilities</th>
       <th>Duration</th>
+      <th>Product</th>
     </tr>
   </thead>
   <tbody>
@@ -80,6 +81,10 @@
        <br>
       </td>
       <td>February 2022 - Present</td>
+     <td>
+     [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" align="left" />][youtube]
+
+     </td>
     </tr>
     <tr>
       <td><b><a href="https://www.harmonq.com/">Web Development</a> </b></td>
@@ -95,6 +100,7 @@
        - Virtual POS integration.</td>
        <br>
       <td>January 2021 - February 2022</td>
+      <td>https://www.harmonq.com/</td>
     </tr>
   </tbody>
 </table>
