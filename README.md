@@ -59,8 +59,7 @@
 
 
 <!-- start work experience section -->
-<details>
-<summary><b> My Work Experience :point_right: </b></summary>
+### My Work Experience 
 <table>
   <thead>
     <tr>
@@ -90,7 +89,6 @@
     </tr>
   </tbody>
 </table>
-</details>
 <!-- end work experience section -->
 
 
