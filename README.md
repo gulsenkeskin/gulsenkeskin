@@ -82,8 +82,9 @@
       </td>
       <td>February 2022 - Present</td>
      <td>
-     [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" align="left" />][youtube]
-
+      https://apps.apple.com/tr/app/harmonq/id1620888561
+      https://play.google.com/store/apps/details?id=com.kurumsalyazilim.harmonq
+      https://play.google.com/store/apps/details?id=com.kurumsalyazilim.ikmobile
      </td>
     </tr>
     <tr>
