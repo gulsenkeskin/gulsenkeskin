@@ -72,11 +72,10 @@
     <tr>
       <td><b><a href="https://www.harmonq.com/">Mobile and Backend Development</a> </b></td>
       <td>
-       <tr>
-        <td>Mobile app development with Flutter.</td>
-        <td>Integration test with the robot pattern.</td>
-        <td>Backend development with .Net Core 6 and Dapper</td></td>
-       </tr>
+        <tr>Mobile app development with Flutter.</tr>
+        <tr>Integration test with the robot pattern.</tr>
+        <tr>Backend development with .Net Core 6 and Dapper</tr>
+      </td>
       <td>February 2022 - Present</td>
     </tr>
     <tr>
