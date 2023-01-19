@@ -82,12 +82,12 @@
       </td>
       <td>February 2022 - Present</td>
      <td>
-      harmonq: <a href="https://apps.apple.com/tr/app/harmonq/id1620888561"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/1667px-Apple_logo_black.svg.png" width="18" height="22"/>
-</a> <a href="https://play.google.com/store/apps/details?id=com.kurumsalyazilim.harmonq"><img align="left" src="https://www.freepnglogos.com/uploads/google-play-png-logo/google-play-arrow-png-logo-8.png" width="18" height="22"/>
+      harmonq: <a href="https://apps.apple.com/tr/app/harmonq/id1620888561"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/1667px-Apple_logo_black.svg.png" width="18" height="22"/>
+</a> <a href="https://play.google.com/store/apps/details?id=com.kurumsalyazilim.harmonq"><img src="https://www.freepnglogos.com/uploads/google-play-png-logo/google-play-arrow-png-logo-8.png" width="18" height="22"/>
 </a> 
       <br>
       <br>
-      kas ik: <a href="https://play.google.com/store/apps/details?id=com.kurumsalyazilim.ikmobile"><img align="left" src="https://www.freepnglogos.com/uploads/google-play-png-logo/google-play-arrow-png-logo-8.png" width="18" height="22"/>
+      kas ik: <a href="https://play.google.com/store/apps/details?id=com.kurumsalyazilim.ikmobile"><img src="https://www.freepnglogos.com/uploads/google-play-png-logo/google-play-arrow-png-logo-8.png" width="18" height="22"/>
 </a> 
       <br>
      </td>
