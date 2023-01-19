@@ -58,6 +58,42 @@
 <!-- BLOG-POST-LIST:END -->
 
 
+<!-- start work experience section -->
+<details>
+<summary><b> My Work Experience :point_right: </b></summary>
+<table>
+  <thead>
+    <tr>
+      <th>Job Name</th>
+      <th>Roles & responsibilities</th>
+      <th>Duration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><a href="https://www.harmonq.com/">Mobile and API Development</a> </b></td>
+      <td>
+       - Mobile app development with Flutter.
+       - Integration test with the robot pattern.
+       - Backend development with .Net Core 6 and Dapper</td>
+      <td>February 2022 - Present</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://www.harmonq.com/">Web Development</a> </b></td>
+      <td>
+       - Front-end development with React.js.
+       - Writing integration tests with Selenium.
+       - API development using .net core and microservice architecture.
+       - Email sending with Apache kafka.
+       - Virtual POS integration.</td>
+      <td>January 2021 - February 2022</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+<!-- end work experience section -->
+
+
  
 [youtube]: https://www.youtube.com/channel/UCPyso_RkkrkDjWAXx51smkg
 [linkedin]: https://www.linkedin.com/in/gulsenkeskin/
