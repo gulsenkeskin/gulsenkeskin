@@ -70,7 +70,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><b><a href="https://www.harmonq.com/">Mobile and API Development</a> </b></td>
+      <td><b><a href="https://www.harmonq.com/">Mobile and Backend Development</a> </b></td>
       <td>
        - Mobile app development with Flutter.
        - Integration test with the robot pattern.
