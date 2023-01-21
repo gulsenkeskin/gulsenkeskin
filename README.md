@@ -97,7 +97,7 @@
     <tr>
       <td><b><a href="https://www.harmonq.com/">Web Development</a> </b></td>
       <td>
-       - Frontend development with React.js. , Material UI, DevExtreme
+       - Frontend development with React.js, Material UI, DevExtreme
        <br>
        - Integration tests with Selenium.
        <br>
