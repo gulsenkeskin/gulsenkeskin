@@ -67,7 +67,7 @@
  
  
 <!-- start work experience section -->
-### My Work Experience :seedling:
+### Work Experience :seedling:
 <table>
   <thead>
     <tr>
