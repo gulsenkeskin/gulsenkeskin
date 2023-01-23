@@ -9,7 +9,7 @@
 <br>
 <br>
 
-### Languages and Tools	
+### Languages and Tools	:bulb:
 
 
 <img align="left" src="https://logowik.com/content/uploads/images/flutter5786.jpg" width="25" height="22"/>
@@ -47,7 +47,7 @@
 [![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)  
 
 
-### Latest Blog Posts 
+### Latest Blog Posts :orange_book:
 
 <!-- BLOG-POST-LIST:START -->
 - [Mobile Architecture](https://dev.to/gulsenkeskin/mobile-architecture-4dpd)
@@ -57,7 +57,7 @@
 - [API Links](https://dev.to/gulsenkeskin/api-links-3a12)
 <!-- BLOG-POST-LIST:END -->
 
-### Github Stats
+### Github Stats :high_brightness:
 
 <div >
   <a href="https://github.com/gulsenkeskin">
