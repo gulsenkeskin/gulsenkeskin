@@ -57,6 +57,13 @@
 - [API Links](https://dev.to/gulsenkeskin/api-links-3a12)
 <!-- BLOG-POST-LIST:END -->
 
+
+<div >
+  <a href="https://github.com/gulsenkeskin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gulsenkeskin&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenkeskin&row=1&column=1&layout=compact&langs_count=7"/>
+</div>
+ 
  
 <!-- start work experience section -->
 ### My Work Experience :seedling:
@@ -116,11 +123,7 @@
 </table>
 <!-- end work experience section -->
 
-<div >
-  <a href="https://github.com/gulsenkeskin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gulsenkeskin&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenkeskin&row=1&column=1&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
+
  
  
 [youtube]: https://www.youtube.com/channel/UCPyso_RkkrkDjWAXx51smkg
