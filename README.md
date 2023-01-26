@@ -125,9 +125,10 @@
 <!-- end work experience section -->
 
  ## Stay Updated ⚛️
- 
-![react](https://github-readme-twitter-gazf.vercel.app/api?id=reactjs&show_reply=false&show_border=false&layout=wide)
-![flutter](https://github-readme-twitter-gazf.vercel.app/api?id=FlutterDev&show_reply=false&show_retweet=false&show_border=false&layout=wide)
+[![react](https://github-readme-twitter-gazf.vercel.app/api?id=reactjs&show_reply=false&show_border=false&layout=wide)](https://twitter.com/reactjs)
+[![flutter](https://github-readme-twitter-gazf.vercel.app/api?id=FlutterDev&show_reply=false&show_retweet=false&show_border=false&layout=wide)](https://twitter.com/FlutterDev)
+
+
  
  
 [youtube]: https://www.youtube.com/channel/UCPyso_RkkrkDjWAXx51smkg
