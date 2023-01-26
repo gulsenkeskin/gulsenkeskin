@@ -140,4 +140,5 @@
 [harmonqapple]: https://apps.apple.com/tr/app/harmonq/id1620888561
 [harmonqplaystore]: https://play.google.com/store/apps/details?id=com.kurumsalyazilim.harmonq
 [kasplaystore]: https://play.google.com/store/apps/details?id=com.kurumsalyazilim.ikmobile
-
+[react]: https://twitter.com/reactjs
+[flutter]: https://twitter.com/FlutterDev
