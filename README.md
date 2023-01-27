@@ -80,6 +80,18 @@
     </tr>
   </thead>
   <tbody>
+   <tr>
+      <td><b><a href="https://www.harmonq.com/">Web and Backend Development</a> </b></td>
+      <td>
+       - Frontend development with React.js.
+       <br>
+       - API development with .Net Core 6.
+       <br>
+      <td>January 2023 - Present</td>
+      <!---
+      <td><a href="https://www.harmonq.com/">harmonq</a></td>
+      -->
+    </tr>
     <tr>
       <td><b><a href="https://www.harmonq.com/">Mobile and Backend Development</a> </b></td>
       <td>
@@ -90,7 +102,7 @@
        - Backend development with .Net Core 6 and Dapper
        <br>
       </td>
-      <td>February 2022 - Present</td>
+      <td>February 2022 - January 2023</td>
      <!---
      <td>
  <a href="https://apps.apple.com/tr/app/harmonq/id1620888561"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/1667px-Apple_logo_black.svg.png" width="13" height="15"/>
