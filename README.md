@@ -83,9 +83,9 @@
    <tr>
       <td><b><a href="https://www.harmonq.com/">Web and Backend Development</a> </b></td>
       <td>
-       - Frontend development with React.js.
+       - Frontend development with React.js, Material UI, DevExtreme.
        <br>
-       - API development with .Net Core 6.
+       - API development with .Net Core 6 and Dapper.
        <br>
       <td>January 2023 - Present</td>
       <!---
@@ -99,7 +99,7 @@
        <br>
        - Integration test with the robot pattern.
        <br>
-       - Backend development with .Net Core 6 and Dapper
+       - Backend development with .Net Core 6 and Dapper.
        <br>
       </td>
       <td>February 2022 - January 2023</td>
@@ -121,7 +121,7 @@
        <br>
        - Integration tests with Selenium.
        <br>
-       - API development using .net core and microservice architecture.
+       - API development with .Net Core and Microservice Architecture.
        <br>
        - Email sending with Apache kafka.
        <br>
