@@ -81,36 +81,41 @@
   </thead>
   <tbody>
    <tr>
-      <td>
-       <b>
-       <a href="https://www.harmonyerp.com.tr/">
-        Web Development
-       <br> 
-        Mobile Development
-        <br>
-        Backend Development
-       </a> 
-       </b>
+      <td><b><a href="https://www.harmonyerp.com.tr/">
+        Web Development</a></b>
       </td>
-      <td>
-        - Frontend development using React.js, MUI, DevExtreme.
+      <td><b><a href="https://www.harmonyerp.com.tr/">
+        Backend Development</a></b>
+      </td>
+      <td><b><a href="https://www.harmonyerp.com.tr/">
+        Mobile Development</a></b>
+      </td>
+   
+    </tr>
+    <tr>
+      <td>  
+       - Frontend development using React.js, MUI, DevExtreme.
        <br>
         - Integration tests using Selenium.
        <br>
+     </td>
+      <td>  
        - API development using .Net Core 6 and Dapper.
        <br>
+       - Email sending using Apache kafka.
+       <br>
+       - Virtual POS integration.
+      </td>
+      <td>
        - Mobile app development using Flutter.
        <br>
        - Mobile app integration test using robot pattern.
-       <br>
-        - Email sending using Apache kafka.
-       <br>
-       - Virtual POS integration.</td>
+     </td>
+    </tr>
+    <tr>
+     <td columnspan="3">
+      January 2021 - Present
       </td>
-      <td>January 2021 - Present</td>
-      <!---
-      <td><a href="https://www.harmonq.com/">harmonq</a></td>
-      -->
     </tr>
   </tbody>
 </table>
