@@ -85,14 +85,15 @@
       <td>- Frontend development using React.js, MUI, DevExtreme.<br>- Integration tests using Selenium.</td>
       <td rowspan="3">January 2021 - Present</td>
     </tr>
+     <tr>
+      <td><b><a href="https://www.harmonyerp.com.tr/">Backend Development</a></b></td>
+      <td>- API development using .Net Core 6, Dapper and Entity Framework.<br>- Email sending using Apache kafka.<br>- Virtual POS integration.</td>
+    </tr>
     <tr>
       <td><b><a href="https://www.harmonyerp.com.tr/">Mobile Development</a></b></td>
       <td>- Mobile app development using Flutter.<br>- Integration test using robot pattern.</td>
     </tr>
-    <tr>
-      <td><b><a href="https://www.harmonyerp.com.tr/">Backend Development</a></b></td>
-      <td>- API development using .Net Core 6, Dapper and Entity Framework.<br>- Email sending using Apache kafka.<br>- Virtual POS integration.</td>
-    </tr>
+  
   </tbody>
 </table>
 <!-- end work experience section -->
