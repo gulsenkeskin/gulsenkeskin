@@ -107,7 +107,7 @@
        <br>
        - Virtual POS integration.</td>
       </td>
-      <td>January 2023 - Present</td>
+      <td>January 2021 - Present</td>
       <!---
       <td><a href="https://www.harmonq.com/">harmonq</a></td>
       -->
