@@ -81,53 +81,23 @@
   </thead>
   <tbody>
    <tr>
-      <td><b><a href="https://www.harmonyerp.com.tr/">Web and Backend Development</a> </b></td>
+      <td><b><a href="https://www.harmonyerp.com.tr/">Web, Mobile and Backend Development</a> </b></td>
       <td>
-       - Frontend development with React.js, Material UI, DevExtreme.
+        - Frontend development with React.js, Material UI, DevExtreme.
+       <br>
+        - Integration tests with Selenium.
        <br>
        - API development with .Net Core 6 and Dapper.
        <br>
-      <td>January 2023 - Present</td>
-      <!---
-      <td><a href="https://www.harmonq.com/">harmonq</a></td>
-      -->
-    </tr>
-    <tr>
-      <td><b><a href="https://www.harmonq.com/">Mobile and Backend Development</a> </b></td>
-      <td>
        - Mobile app development with Flutter.
        <br>
        - Integration test with the robot pattern.
        <br>
-       - Backend development with .Net Core 6 and Dapper.
-       <br>
-      </td>
-      <td>February 2022 - January 2023</td>
-     <!---
-     <td>
- <a href="https://apps.apple.com/tr/app/harmonq/id1620888561"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/1667px-Apple_logo_black.svg.png" width="13" height="15"/>
-</a> <a href="https://play.google.com/store/apps/details?id=com.kurumsalyazilim.harmonq"><img src="https://www.freepnglogos.com/uploads/google-play-png-logo/google-play-arrow-png-logo-8.png" width="11" height="13"/>
-</a> 
-      <br>
-    <a href="https://play.google.com/store/apps/details?id=com.kurumsalyazilim.ikmobile"><img src="https://www.freepnglogos.com/uploads/google-play-png-logo/google-play-arrow-png-logo-8.png" width="11" height="13"/>
-</a> 
-     </td>
-     -->
-    </tr>
-    <tr>
-      <td><b><a href="https://www.harmonq.com/">Web Development</a> </b></td>
-      <td>
-       - Frontend development with React.js, Material UI, DevExtreme.
-       <br>
-       - Integration tests with Selenium.
-       <br>
-       - API development with .Net Core and Microservice Architecture.
-       <br>
-       - Email sending with Apache kafka.
+        - Email sending with Apache kafka.
        <br>
        - Virtual POS integration.</td>
-       <br>
-      <td>January 2021 - February 2022</td>
+      </td>
+      <td>January 2023 - Present</td>
       <!---
       <td><a href="https://www.harmonq.com/">harmonq</a></td>
       -->
