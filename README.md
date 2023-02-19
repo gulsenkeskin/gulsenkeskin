@@ -113,7 +113,7 @@
      </td>
     </tr>
     <tr>
-     <td columnspan="3">
+     <td >
       January 2021 - Present
       </td>
     </tr>
