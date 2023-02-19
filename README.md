@@ -80,8 +80,8 @@
     </tr>
   </thead>
   <tbody>
-   <tr>
-      <td><b><a href="https://www.harmonyerp.com.tr/">
+    <tr>
+   <td><tr><td><b><a href="https://www.harmonyerp.com.tr/">
         Web Development</a></b>
       </td>
       <td><b><a href="https://www.harmonyerp.com.tr/">
@@ -89,10 +89,10 @@
       </td>
       <td><b><a href="https://www.harmonyerp.com.tr/">
         Mobile Development</a></b>
-      </td>
-   
-    </tr>
-    <tr>
+      </td></tr></td>
+      <td>
+    
+     <td><tr>    
       <td>  
        - Frontend development using React.js, MUI, DevExtreme.
        <br>
@@ -111,12 +111,14 @@
        <br>
        - Mobile app integration test using robot pattern.
      </td>
-    </tr>
-    <tr>
-     <td >
+</tr></td>
+      <td >
       January 2021 - Present
       </td>
+   
     </tr>
+
+ 
   </tbody>
 </table>
 <!-- end work experience section -->
