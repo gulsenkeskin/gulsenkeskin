@@ -93,17 +93,17 @@
        </b>
       </td>
       <td>
-        - Frontend development with React.js, MUI, DevExtreme.
+        - Frontend development using React.js, MUI, DevExtreme.
        <br>
-        - Integration tests with Selenium.
+        - Integration tests using Selenium.
        <br>
-       - API development with .Net Core 6 and Dapper.
+       - API development using .Net Core 6 and Dapper.
        <br>
-       - Mobile app development with Flutter.
+       - Mobile app development using Flutter.
        <br>
-       - Integration test with the robot pattern.
+       -Mobile app integration test using robot pattern.
        <br>
-        - Email sending with Apache kafka.
+        - Email sending using Apache kafka.
        <br>
        - Virtual POS integration.</td>
       </td>
