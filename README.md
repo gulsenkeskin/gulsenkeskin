@@ -101,7 +101,7 @@
        <br>
        - Mobile app development using Flutter.
        <br>
-       -Mobile app integration test using robot pattern.
+       - Mobile app integration test using robot pattern.
        <br>
         - Email sending using Apache kafka.
        <br>
