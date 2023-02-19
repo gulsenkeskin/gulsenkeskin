@@ -81,50 +81,18 @@
   </thead>
   <tbody>
     <tr>
-     <td>
-      <tr>
-       <td><b><a href="https://www.harmonyerp.com.tr/">
-        Web Development</a></b>
-      </td>
-      <td><b><a href="https://www.harmonyerp.com.tr/">
-        Backend Development</a></b>
-      </td>
-      <td><b><a href="https://www.harmonyerp.com.tr/">
-        Mobile Development</a></b>
-      </td>
-     </tr>
-    </td>
-     
-    
-     <td>
-      <tr>    
-      <td>  
-       - Frontend development using React.js, MUI, DevExtreme.
-       <br>
-        - Integration tests using Selenium.
-       <br>
-     </td>
-      <td>  
-       - API development using .Net Core 6 and Dapper.
-       <br>
-       - Email sending using Apache kafka.
-       <br>
-       - Virtual POS integration.
-      </td>
-      <td>
-       - Mobile app development using Flutter.
-       <br>
-       - Mobile app integration test using robot pattern.
-     </td>
-     </tr>
-     </td>
-      <td >
-      January 2021 - Present
-      </td>
-   
+      <td><b><a href="https://www.harmonyerp.com.tr/">Web Development</a></b></td>
+      <td>- Frontend development using React.js, MUI, DevExtreme.<br>- Integration tests using Selenium.</td>
+      <td rowspan="3">January 2021 - Present</td>
     </tr>
-
- 
+    <tr>
+      <td><b><a href="https://www.harmonyerp.com.tr/">Mobile Development</a></b></td>
+      <td>- Mobile app development using Flutter.<br>- Mobile app integration test using robot pattern.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://www.harmonyerp.com.tr/">Backend Development</a></b></td>
+      <td>- API development using .Net Core 6 and Dapper.<br>- Email sending using Apache kafka.<br>- Virtual POS integration.</td>
+    </tr>
   </tbody>
 </table>
 <!-- end work experience section -->
