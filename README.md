@@ -81,7 +81,17 @@
   </thead>
   <tbody>
    <tr>
-      <td><b><a href="https://www.harmonyerp.com.tr/">Web, Mobile and Backend Development</a> </b></td>
+      <td>
+       <b>
+       <a href="https://www.harmonyerp.com.tr/">
+        Web Development
+       <br> 
+        Mobile Development
+        <br>
+        Backend Development
+       </a> 
+       </b>
+      </td>
       <td>
         - Frontend development with React.js, MUI, DevExtreme.
        <br>
