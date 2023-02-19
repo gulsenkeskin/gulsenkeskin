@@ -83,7 +83,7 @@
    <tr>
       <td><b><a href="https://www.harmonyerp.com.tr/">Web, Mobile and Backend Development</a> </b></td>
       <td>
-        - Frontend development with React.js, Material UI, DevExtreme.
+        - Frontend development with React.js, MUI, DevExtreme.
        <br>
         - Integration tests with Selenium.
        <br>
