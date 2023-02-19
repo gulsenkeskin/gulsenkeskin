@@ -87,11 +87,11 @@
     </tr>
     <tr>
       <td><b><a href="https://www.harmonyerp.com.tr/">Mobile Development</a></b></td>
-      <td>- Mobile app development using Flutter.<br>- Mobile app integration test using robot pattern.</td>
+      <td>- Mobile app development using Flutter.<br>- Integration test using robot pattern.</td>
     </tr>
     <tr>
       <td><b><a href="https://www.harmonyerp.com.tr/">Backend Development</a></b></td>
-      <td>- API development using .Net Core 6 and Dapper.<br>- Email sending using Apache kafka.<br>- Virtual POS integration.</td>
+      <td>- API development using .Net Core 6, Dapper and Entity Framework.<br>- Email sending using Apache kafka.<br>- Virtual POS integration.</td>
     </tr>
   </tbody>
 </table>
