@@ -87,7 +87,7 @@
     </tr>
      <tr>
       <td><b><a href="https://www.harmonyerp.com.tr/">Backend Development</a></b></td>
-      <td>- API development using .Net Core 6, Dapper and Entity Framework.<br>- Email sending using Apache kafka.<br>- Virtual POS integration.</td>
+      <td>- API development using .Net Core 6, Dapper and EF Core.<br>- Email sending using Apache kafka.<br>- Virtual POS integration.</td>
     </tr>
     <tr>
       <td><b><a href="https://www.harmonyerp.com.tr/">Mobile Development</a></b></td>
