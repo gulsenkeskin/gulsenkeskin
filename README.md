@@ -102,7 +102,7 @@ Spotify Playing :violin: :notes:
 
  
 <img src="https://media1.giphy.com/media/ZbftmEwht0nDkl6XFX/giphy.gif?cid=ecf05e47l19lzmqnuv3o320i63xy3da13bsxhp10w9z9wm8s&rid=giphy.gif&ct=s" width="180" height="100"> <img src="https://media2.giphy.com/media/3JTwfEEdDlpyh6M0o2/giphy.gif?cid=790b7611e9c9e8bc9ce40170c9368926692fdb648405ee7c&rid=giphy.gif&ct=s" width="180" height="100"><img src="https://media3.giphy.com/media/TpNTATTp5c2Ri/giphy.gif?cid=790b7611a9ccd55e6b764aacf4c7a277dc6c1d020f1e187e&rid=giphy.gif&ct=s" width="180" height="100">
-<img src="https://media0.giphy.com/media/5eFFhJ3yrAIndRQeFx/giphy.gif?cid=790b761159865a018304701e37e468edc07abbeca1073a30&rid=giphy.gif&ct=s" width="140" height="100"> 
+<img src="https://media0.giphy.com/media/5eFFhJ3yrAIndRQeFx/giphy.gif?cid=790b761159865a018304701e37e468edc07abbeca1073a30&rid=giphy.gif&ct=s" width="120" height="100"> 
 
  
 [youtube]: https://www.youtube.com/channel/UCPyso_RkkrkDjWAXx51smkg
