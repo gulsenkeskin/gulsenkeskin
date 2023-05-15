@@ -43,9 +43,11 @@
 
 
  
-### Spotify Playing :violin: :notes: <div style="display: flex; align-items: center; height: 100vh; justify-content: center;">
+<div style="display: flex; align-items: center; height: 100vh; justify-content: center;">
+  <span style="vertical-align: middle;">Spotify Playing :violin: :notes:</span>
   <img src="https://media1.giphy.com/media/ZbftmEwht0nDkl6XFX/giphy.gif?cid=ecf05e47l19lzmqnuv3o320i63xy3da13bsxhp10w9z9wm8s&rid=giphy.gif&ct=s" width="45" height="25" alt="GIF">
 </div>
+
 [![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)  
 
 
