@@ -101,7 +101,7 @@ Spotify Playing :violin: :notes:
 <!-- end work experience section -->
 
  
-  ![GIF](https://media1.giphy.com/media/ZbftmEwht0nDkl6XFX/giphy.gif?cid=ecf05e47l19lzmqnuv3o320i63xy3da13bsxhp10w9z9wm8s&rid=giphy.gif&ct=s)
+![GIF](https://media1.giphy.com/media/ZbftmEwht0nDkl6XFX/giphy.gif?cid=ecf05e47l19lzmqnuv3o320i63xy3da13bsxhp10w9z9wm8s&rid=giphy.gif&ct=s) ![GIF](https://media2.giphy.com/media/3JTwfEEdDlpyh6M0o2/giphy.gif?cid=790b7611e9c9e8bc9ce40170c9368926692fdb648405ee7c&rid=giphy.gif&ct=s)
 
  
 [youtube]: https://www.youtube.com/channel/UCPyso_RkkrkDjWAXx51smkg
