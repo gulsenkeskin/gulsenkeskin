@@ -43,7 +43,7 @@
 
 
  
-Spotify Playing :violin: :notes: ![GIF](https://media1.giphy.com/media/ZbftmEwht0nDkl6XFX/giphy.gif?cid=ecf05e47l19lzmqnuv3o320i63xy3da13bsxhp10w9z9wm8s&rid=giphy.gif&ct=s)
+Spotify Playing :violin: :notes:
 
 
 [![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)  
@@ -101,6 +101,9 @@ Spotify Playing :violin: :notes: ![GIF](https://media1.giphy.com/media/ZbftmEwht
 <!-- end work experience section -->
 
  
+  ![GIF](https://media1.giphy.com/media/ZbftmEwht0nDkl6XFX/giphy.gif?cid=ecf05e47l19lzmqnuv3o320i63xy3da13bsxhp10w9z9wm8s&rid=giphy.gif&ct=s)
+
+ 
 [youtube]: https://www.youtube.com/channel/UCPyso_RkkrkDjWAXx51smkg
 [linkedin]: https://www.linkedin.com/in/gulsenkeskin/
 [stackoverflow]: https://stackoverflow.com/users/14745090/g%c3%bclsen-keskin
@@ -113,3 +116,5 @@ Spotify Playing :violin: :notes: ![GIF](https://media1.giphy.com/media/ZbftmEwht
 [kasplaystore]: https://play.google.com/store/apps/details?id=com.kurumsalyazilim.ikmobile
 [react]: https://twitter.com/reactjs
 [flutter]: https://twitter.com/FlutterDev
+
+
