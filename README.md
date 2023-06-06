@@ -48,7 +48,7 @@ Spotify Playing :violin: :notes:
 
 [![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)  
 
-<div >
+ 
 ### Latest Blog Posts :orange_book:
 
 <!-- BLOG-POST-LIST:START -->
@@ -60,6 +60,7 @@ Spotify Playing :violin: :notes:
 <!-- BLOG-POST-LIST:END -->
  
 ### Latest Youtube Videos :video_camera:
+ 
 <!-- YOUTUBE:START -->
 - [Bir CSS Dosyasına Farklı CSS Dosyalarını Dahil Edebilme](https://www.youtube.com/watch?v=Q_XeNXWfdOc)
 - [Moora Yöntemi](https://www.youtube.com/watch?v=EDIuAQYkE1c)
@@ -67,7 +68,6 @@ Spotify Playing :violin: :notes:
 - [Çok Kriterli Karar Verme Teknikleri Masaüstü Uygulaması](https://www.youtube.com/watch?v=TBvpWqhEfVU)
 - [Çok Kriterli Karar Verme: TODİM Masaüstü Uygulaması 4](https://www.youtube.com/watch?v=BXJWCzEPuWc)
 <!-- YOUTUBE:END -->
- </div> 
  
  
  
