@@ -59,7 +59,7 @@ Spotify Playing :violin: :notes:
 - [API Links](https://dev.to/gulsenkeskin/api-links-3a12)
 <!-- BLOG-POST-LIST:END -->
  
-### Latest Youtube Videos :video_camera:
+### Latest Youtube Videos 📷:
  
 <!-- YOUTUBE:START -->
 - [Bir CSS Dosyasına Farklı CSS Dosyalarını Dahil Edebilme](https://www.youtube.com/watch?v=Q_XeNXWfdOc)
