@@ -48,7 +48,7 @@ Spotify Playing :violin: :notes:
 
 [![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)  
 
-
+<div >
 ### Latest Blog Posts :orange_book:
 
 <!-- BLOG-POST-LIST:START -->
@@ -58,6 +58,19 @@ Spotify Playing :violin: :notes:
 - [Gradle to update dependencies command](https://dev.to/gulsenkeskin/gradle-to-update-dependencies-command-5151)
 - [API Links](https://dev.to/gulsenkeskin/api-links-3a12)
 <!-- BLOG-POST-LIST:END -->
+ 
+### Latest Youtube Videos :video_camera:
+<!-- YOUTUBE:START -->
+- [Bir CSS Dosyasına Farklı CSS Dosyalarını Dahil Edebilme](https://www.youtube.com/watch?v=Q_XeNXWfdOc)
+- [Moora Yöntemi](https://www.youtube.com/watch?v=EDIuAQYkE1c)
+- [TODIM &lpar;Tomada de Decisao Interativa Multicriterio&rpar; method desktop application](https://www.youtube.com/watch?v=bHQoHSQNxPs)
+- [Çok Kriterli Karar Verme Teknikleri Masaüstü Uygulaması](https://www.youtube.com/watch?v=TBvpWqhEfVU)
+- [Çok Kriterli Karar Verme: TODİM Masaüstü Uygulaması 4](https://www.youtube.com/watch?v=BXJWCzEPuWc)
+<!-- YOUTUBE:END -->
+ </div> 
+ 
+ 
+ 
 <!--
 ### Github Stats :high_brightness:
 
