@@ -58,7 +58,7 @@ Spotify Playing :violin: :notes:
 - [Gradle to update dependencies command](https://dev.to/gulsenkeskin/gradle-to-update-dependencies-command-5151)
 - [API Links](https://dev.to/gulsenkeskin/api-links-3a12)
 <!-- BLOG-POST-LIST:END -->
-
+<!--
 ### Github Stats :high_brightness:
 
 <div >
@@ -66,7 +66,7 @@ Spotify Playing :violin: :notes:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gulsenkeskin&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenkeskin&row=1&column=1&layout=compact&langs_count=7"/>
 </div> 
-
+ -->
  
 <!-- start work experience section -->
 ### Work Experience :seedling:
