@@ -97,7 +97,7 @@ Spotify Playing :violin: :notes:
   <tbody>
     <tr>
       <td><b><a href="https://www.harmonyerp.com.tr/">Web Development</a></b></td>
-      <td>- Frontend development using React.js, MUI, DevExtreme.<br>- Integration tests using Selenium.</td>
+      <td>- Frontend development using React.js,Vue.js,TypeScript, MUI, DevExtreme.<br>- Integration tests using Selenium.</td>
       <td rowspan="3">January 2021 - Present</td>
     </tr>
      <tr>
