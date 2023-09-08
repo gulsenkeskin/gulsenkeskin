@@ -35,7 +35,8 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Apache_kafka-icon.svg/1200px-Apache_kafka-icon.svg.png" width="25" height="25"/>
 
 ##                                           
-                                        
+<br>
+<br>
 
 
 ### Spotify Playing :violin: :notes:
