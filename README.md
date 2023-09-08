@@ -21,7 +21,7 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="25" height="25"/>
 <img align="left" src="https://dartpad.dev/dart-192.png" width="22" height="22"/>
-<img align="left" src="https://seeklogo.com/images/P/pinia-logo-51BF712FB0-seeklogo.com.png" width="22" height="25"/>
+<img align="left" src="https://seeklogo.com/images/P/pinia-logo-51BF712FB0-seeklogo.com.png" width="21" height="25"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="25" height="25" />
