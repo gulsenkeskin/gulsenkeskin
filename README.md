@@ -9,7 +9,7 @@
 <br>
 <br>
 
-### Languages and Tools	:bulb:
+### Languages and Tools💡
 <div>
 <img src="https://logowik.com/content/uploads/images/flutter5786.jpg" width="25" height="22"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="25" height="25" />
