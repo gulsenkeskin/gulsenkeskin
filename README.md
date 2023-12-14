@@ -38,6 +38,7 @@
  <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" width="25" height="25" align="left"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Apache_kafka-icon.svg/1200px-Apache_kafka-icon.svg.png" width="25" height="25" align="left"/>
 </div>
+<br>
 
 ### Spotify Playing :violin: :notes:
 
