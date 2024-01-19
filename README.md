@@ -85,7 +85,7 @@
  -->
  
 <!-- start work experience section -->
-### Work Experience :seedling:  <img src="https://media2.giphy.com/media/3JTwfEEdDlpyh6M0o2/giphy.gif?cid=790b7611e9c9e8bc9ce40170c9368926692fdb648405ee7c&rid=giphy.gif&ct=s" width="45" height="25">
+### Work Experience :seedling:  
 <table>
   <thead>
     <tr>
