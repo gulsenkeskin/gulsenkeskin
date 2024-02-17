@@ -38,6 +38,7 @@
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Apache_kafka-icon.svg/1200px-Apache_kafka-icon.svg.png" width="25" height="25" align="left"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" width="25" height="25" align="left"/>
+<img src="https://avatars.githubusercontent.com/u/42068324?s=200&v=4" width="25" height="25" align="left"/>
 </div>
 <br>
 <br>
