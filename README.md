@@ -64,11 +64,11 @@
 ### Latest Youtube Videos 📰
  
 <!-- YOUTUBE:START -->
+- [TODİM Uygulaması Kurulumu ve Kullanımı](https://www.youtube.com/watch?v=2DIxxQlB2SU)
+- [Çok Kriterli Karar Verme Uygulaması Kurulumu ve Örnek Kullanım](https://www.youtube.com/watch?v=RUCFf7KRDCw)
 - [Bir CSS Dosyasına Farklı CSS Dosyalarını Dahil Edebilme](https://www.youtube.com/watch?v=Q_XeNXWfdOc)
 - [Moora Yöntemi](https://www.youtube.com/watch?v=EDIuAQYkE1c)
 - [TODIM &lpar;Tomada de Decisao Interativa Multicriterio&rpar; method desktop application](https://www.youtube.com/watch?v=bHQoHSQNxPs)
-- [Çok Kriterli Karar Verme Teknikleri Masaüstü Uygulaması](https://www.youtube.com/watch?v=TBvpWqhEfVU)
-- [Çok Kriterli Karar Verme: TODİM Masaüstü Uygulaması 4](https://www.youtube.com/watch?v=BXJWCzEPuWc)
 <!-- YOUTUBE:END -->
  
  
