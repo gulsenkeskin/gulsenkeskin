@@ -109,7 +109,6 @@
     <tr>
       <td><b><a href="https://www.harmonyerp.com.tr/">Mobile Development</a></b></td>
       <td>- Mobile app development using Flutter. <br>- MVMM, Bloc, GetX, Provider. <br>- Integration test using robot pattern.</td>
-   
     </tr>
   
   </tbody>
