@@ -6,6 +6,7 @@
 [<img  width="22" src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" align="left" />][dev]
 [<img  width="22" src="https://miro.medium.com/fit/c/56/56/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" align="left" />][medium]
 [<img  width="22" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" align="left" />][leetcode]
+
 <br>
 <br>
 
@@ -46,8 +47,6 @@
 
 
 ### Spotify Playing :violin: :notes:  
-<img src='https://media.licdn.com/dms/image/v2/D5622AQFwHWq3RXhL8Q/feedshare-shrink_800/feedshare-shrink_800/0/1730908599147?e=1733961600&v=beta&t=B8Lpi70dVJGRnBsPsv9GMhdcQn9uF_75jD98XJ9FA0I' width="115" height="100" align="right"/>
-
 [![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)  
 
  
