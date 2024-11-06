@@ -1,4 +1,5 @@
 ### Languages and Tools	
+<img src='https://media.licdn.com/dms/image/v2/D5622AQFwHWq3RXhL8Q/feedshare-shrink_800/feedshare-shrink_800/0/1730908599147?e=1733961600&v=beta&t=B8Lpi70dVJGRnBsPsv9GMhdcQn9uF_75jD98XJ9FA0I' width="180" height="140">
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="27" height="27" />
 <img align="left" src="https://dartpad.dev/dart-192.png" width="27" height="27"/>
