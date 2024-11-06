@@ -46,7 +46,7 @@
 
 
 ### Spotify Playing :violin: :notes:  
-
+<img src='https://media.licdn.com/dms/image/v2/D5622AQFwHWq3RXhL8Q/feedshare-shrink_800/feedshare-shrink_800/0/1730908599147?e=1733961600&v=beta&t=B8Lpi70dVJGRnBsPsv9GMhdcQn9uF_75jD98XJ9FA0I' width="115" height="100" align="right"/>
 
 [![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)  
 
