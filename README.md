@@ -50,7 +50,7 @@
 [![Spotify](https://novatorem-gulsenkeskin.vercel.app/api/spotify)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)  
 
  
-### Latest Blog Posts :orange_book:
+### Latest Blog Posts 📰
 
 <!-- BLOG-POST-LIST:START -->
 - [Mobile Architecture](https://dev.to/gulsenkeskin/mobile-architecture-4dpd)
@@ -60,7 +60,7 @@
 - [API Links](https://dev.to/gulsenkeskin/api-links-3a12)
 <!-- BLOG-POST-LIST:END -->
  
-### Latest Youtube Videos 📰
+### Latest Youtube Videos 💻 
  
 <!-- YOUTUBE:START -->
 - [TODİM Uygulaması Kurulumu ve Kullanımı](https://www.youtube.com/watch?v=2DIxxQlB2SU)
