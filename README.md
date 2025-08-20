@@ -122,7 +122,7 @@
 [linkedin]: https://www.linkedin.com/in/gulsenkeskin/
 [stackoverflow]: https://stackoverflow.com/users/14745090/g%c3%bclsen-keskin
 [dev]: https://dev.to/gulsenkeskin
-[medium]: https://medium.com/@gulsenkeskin2
+[medium]: https://medium.com/@gulsenkeskin 
 [behance]: https://www.behance.net/glsenkeskin/moodboards
 [leetcode]: https://leetcode.com/gulsenkeskin/
 [harmonqapple]: https://apps.apple.com/tr/app/harmonq/id1620888561
