@@ -100,7 +100,7 @@
     </tr>
      <tr>
       <td><b><a href="https://www.harmonyerp.com.tr/">Backend Development</a></b></td>
-      <td>- API development using .Net Core, Abp, Dapper and EF Core.<br>- Email sending using Apache kafka.<br>- Virtual POS integration.</td>
+      <td>- API development using .Net Core, Abp, Dapper and EF Core. </td>
     </tr>
     <tr>
       <td><b><a href="https://www.harmonyerp.com.tr/">Mobile Development</a></b></td>
