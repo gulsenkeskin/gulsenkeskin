@@ -50,11 +50,11 @@
 ### Latest Blog Posts 📰
 
 <!-- BLOG-POST-LIST:START -->
+- [conda komutları](https://dev.to/gulsenkeskin/conda-komutlari-2ig2)
 - [Mobile Architecture](https://dev.to/gulsenkeskin/mobile-architecture-4dpd)
 - [Dart ??= Operatörü](https://dev.to/gulsenkeskin/dart-operatoru-4gah)
 - [Mounted check in a stateless widget](https://dev.to/gulsenkeskin/mounted-check-in-a-stateless-widget-356o)
 - [Gradle to update dependencies command](https://dev.to/gulsenkeskin/gradle-to-update-dependencies-command-5151)
-- [API Links](https://dev.to/gulsenkeskin/api-links-3a12)
 <!-- BLOG-POST-LIST:END -->
  
 ### Latest Youtube Videos 💻 
