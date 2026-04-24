@@ -1,4 +1,4 @@
-It's not a bug it’s an undocumented <feature> 🔮
+<font color="pink">It's not a bug <em> it’s an undocumented </em> `<feature>` :crystal_ball: </font> 
 
 ### Connect :octocat:
 
