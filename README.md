@@ -52,7 +52,11 @@
 ### Latest Blog Posts 📰
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Kafka ☼](https://medium.com/@gulsenkeskin/apache-kafka-6c030e48aa60?source=rss-adf6e7b38962------2)
+- [C# Record Type](https://dev.to/gulsenkeskin/c-record-type-bne)
+- [Conda Komutları](https://dev.to/gulsenkeskin/conda-komutlari-2ig2)
+- [Mobile Architecture](https://dev.to/gulsenkeskin/mobile-architecture-4dpd)
+- [Dart ??= Operatörü](https://dev.to/gulsenkeskin/dart-operatoru-4gah)
+- [Mounted check in a stateless widget](https://dev.to/gulsenkeskin/mounted-check-in-a-stateless-widget-356o)
 <!-- BLOG-POST-LIST:END -->
  
 ### Latest Youtube Videos 💻 
